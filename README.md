@@ -4,7 +4,7 @@
 
 Welcome to the demo of [roam-to-git](https://github.com/MatthieuBizien/roam-to-git)!
 
-You can [modify it](https://roamresearch.com/#/app/roam-to-git-demo) and see the result here, 10min after.
+You can [modify it](https://roamresearch.com/#/app/roam-to-git-demo) and see the result here. Because we backup every hour, latency can be up to 1h.
 
 The directories are:
 - markdown/ for the raw markdown export of Roam
