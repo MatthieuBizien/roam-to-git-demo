@@ -29,7 +29,7 @@
         "create-email": "oao2005+1@gmail.com",
         "create-time": 1587253669990,
         "edit-email": "oao2005@gmail.com",
-        "edit-time": 1587254006222,
+        "edit-time": 1590099682430,
         "string": "Test [Issue 3](https://github.com/MatthieuBizien/roam-to-git/issues/3): [[Respecting [[level of [[abstraction]]]]]]",
         "uid": "ccLEFZY65"
       },
@@ -156,6 +156,20 @@
     "title": "level of [[abstraction]]"
   },
   {
+    "children": [
+      {
+        "create-time": 1590099696521,
+        "edit-time": 1590099704364,
+        "string": "Building another [[concept]]",
+        "uid": "e5CJsA2nE"
+      },
+      {
+        "create-time": 1590099704321,
+        "edit-time": 1590099704321,
+        "string": "",
+        "uid": "eIkzebMYg"
+      }
+    ],
     "create-email": "oao2005@gmail.com",
     "create-time": 1587253993719,
     "edit-email": "oao2005@gmail.com",
@@ -523,5 +537,33 @@
     "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1590019665934,
     "title": "May 21st, 2020"
+  },
+  {
+    "edit-time": 1590099515084,
+    "title": "May 22nd, 2020"
+  },
+  {
+    "children": [
+      {
+        "create-time": 1590099709993,
+        "edit-time": 1590099719910,
+        "string": "Yet another concept goes here [[another concept]]",
+        "uid": "ufEIcGWOK"
+      },
+      {
+        "create-time": 1590099719872,
+        "edit-time": 1590099719872,
+        "string": "",
+        "uid": "iBFOr22uD"
+      }
+    ],
+    "create-time": 1590099704370,
+    "edit-time": 1590099704376,
+    "title": "concept"
+  },
+  {
+    "create-time": 1590099719918,
+    "edit-time": 1590099719923,
+    "title": "another concept"
   }
 ]
