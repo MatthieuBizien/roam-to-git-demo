@@ -129,11 +129,29 @@
         "uid": "zAS9sAUyb"
       },
       {
+        "children": [
+          {
+            "create-email": "alexjj@gmail.com",
+            "create-time": 1593169232612,
+            "edit-email": "alexjj@gmail.com",
+            "edit-time": 1593169242294,
+            "string": "[[Respecting [[level of [[abstraction]]]]]] ",
+            "uid": "6AsP4hpx3"
+          },
+          {
+            "create-email": "alexjj@gmail.com",
+            "create-time": 1593169245094,
+            "edit-email": "alexjj@gmail.com",
+            "edit-time": 1593169245094,
+            "string": "",
+            "uid": "kohQLcpj0"
+          }
+        ],
         "create-email": "oao2005+1@gmail.com",
         "create-time": 1587253648435,
-        "edit-email": "oao2005+1@gmail.com",
-        "edit-time": 1587253648435,
-        "string": "",
+        "edit-email": "alexjj@gmail.com",
+        "edit-time": 1593169232616,
+        "string": "very nice.",
         "uid": "FIGY5Be_P"
       }
     ],
@@ -572,6 +590,70 @@
     "title": "concept"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "alexjj@gmail.com",
+                "create-time": 1593169270604,
+                "edit-email": "alexjj@gmail.com",
+                "edit-time": 1593169294555,
+                "string": "why do today what could be done: [[June 27th, 2020]]",
+                "uid": "9jCvPOns7"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "alexjj@gmail.com",
+                    "create-time": 1593169307965,
+                    "edit-email": "alexjj@gmail.com",
+                    "edit-time": 1593169313203,
+                    "string": "2+4",
+                    "uid": "O3Jz6XNo_"
+                  },
+                  {
+                    "create-email": "alexjj@gmail.com",
+                    "create-time": 1593169313196,
+                    "edit-email": "alexjj@gmail.com",
+                    "edit-time": 1593169319708,
+                    "string": "ham sandwiches",
+                    "uid": "3JvsuRCde"
+                  },
+                  {
+                    "create-email": "alexjj@gmail.com",
+                    "create-time": 1593169319706,
+                    "edit-email": "alexjj@gmail.com",
+                    "edit-time": 1593169319706,
+                    "string": "",
+                    "uid": "Zg76E_5nz"
+                  }
+                ],
+                "create-email": "alexjj@gmail.com",
+                "create-time": 1593169295371,
+                "edit-email": "alexjj@gmail.com",
+                "edit-time": 1593169309475,
+                "string": "{{[[calc]]: ((O3Jz6XNo_))}}",
+                "uid": "0_peEMX9O"
+              }
+            ],
+            "create-email": "alexjj@gmail.com",
+            "create-time": 1593169264836,
+            "edit-email": "alexjj@gmail.com",
+            "edit-time": 1593169270609,
+            "string": "what happens now?",
+            "uid": "7yeeLkVJ6"
+          }
+        ],
+        "create-email": "alexjj@gmail.com",
+        "create-time": 1593169255304,
+        "edit-email": "alexjj@gmail.com",
+        "edit-time": 1593169264841,
+        "string": "[[yet another concept]]",
+        "uid": "Qj5nzx9Fr"
+      }
+    ],
     "create-time": 1590099719918,
     "edit-time": 1590099719923,
     "title": "another concept"
@@ -852,5 +934,44 @@
     "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1593130355458,
     "title": "June 26th, 2020"
+  },
+  {
+    "create-email": "alexjj@gmail.com",
+    "create-time": 1593169264843,
+    "edit-email": "alexjj@gmail.com",
+    "edit-time": 1593169264844,
+    "title": "yet another concept"
+  },
+  {
+    "children": [
+      {
+        "create-email": "alexjj@gmail.com",
+        "create-time": 1593169338300,
+        "edit-email": "alexjj@gmail.com",
+        "edit-time": 1593169344984,
+        "string": "TOMORROW NEVER COMES",
+        "uid": "KVGOmYvMu"
+      },
+      {
+        "create-email": "alexjj@gmail.com",
+        "create-time": 1593169345365,
+        "edit-email": "alexjj@gmail.com",
+        "edit-time": 1593169345365,
+        "string": "",
+        "uid": "a3t7VcCA3"
+      }
+    ],
+    "create-email": "alexjj@gmail.com",
+    "create-time": 1593169285114,
+    "edit-email": "alexjj@gmail.com",
+    "edit-time": 1593169285114,
+    "title": "June 27th, 2020"
+  },
+  {
+    "create-email": "alexjj@gmail.com",
+    "create-time": 1593169309476,
+    "edit-email": "alexjj@gmail.com",
+    "edit-time": 1593169309479,
+    "title": "calc"
   }
 ]

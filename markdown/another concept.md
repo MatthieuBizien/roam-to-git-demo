@@ -1,0 +1,7 @@
+- [[yet another concept]]
+    - what happens now?
+        - why do today what could be done: [[June 27th, 2020]]
+        - {{[[calc]]: ((O3Jz6XNo_))}}
+            - 2+4
+            - ham sandwiches
+            - 
