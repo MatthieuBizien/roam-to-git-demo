@@ -1,0 +1,2 @@
+- **[Themen](<Themen.md>):** [Denken](<Denken.md>) [Lernen](<Lernen.md>) [Glaubens](<Glaubens.md>)ätze [Definitionen](<Definitionen.md>) #[💡2](<💡2.md>)
+- 
