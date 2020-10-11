@@ -1,0 +1,1 @@
+- test [Glaubensätze](<Glaubensätze.md>)
