@@ -1964,8 +1964,35 @@
     "title": "October 25th, 2020"
   },
   {
+    "children": [
+      {
+        "create-email": "login@sellaro.co",
+        "create-time": 1603740651326,
+        "edit-email": "login@sellaro.co",
+        "edit-time": 1603740658920,
+        "string": "This is a test linking to [[Another Page]]",
+        "uid": "nqMgoKRF-"
+      }
+    ],
     "edit-email": "elichaiml@gmail.com",
     "edit-time": 1603671228796,
     "title": "October 26th, 2020"
+  },
+  {
+    "children": [
+      {
+        "create-email": "login@sellaro.co",
+        "create-time": 1603740660585,
+        "edit-email": "login@sellaro.co",
+        "edit-time": 1603740669347,
+        "string": "This is another page created as a result of a test",
+        "uid": "PA-O49_RJ"
+      }
+    ],
+    "create-email": "login@sellaro.co",
+    "create-time": 1603740658922,
+    "edit-email": "login@sellaro.co",
+    "edit-time": 1603740658926,
+    "title": "Another Page"
   }
 ]
