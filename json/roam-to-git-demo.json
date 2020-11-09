@@ -2065,10 +2065,148 @@
     "title": "November 8th, 2020"
   },
   {
+    "children": [
+      {
+        "create-email": "gus+roam@xogito.com",
+        "create-time": 1604947773661,
+        "edit-email": "gus+roam@xogito.com",
+        "edit-time": 1604947773661,
+        "string": "",
+        "uid": "5Unkzf6Nz"
+      }
+    ],
     "create-email": "oao2005+1@gmail.com",
     "create-time": 1604881212098,
     "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1604881212099,
     "title": "November 9th, 2020"
+  },
+  {
+    "children": [
+      {
+        "create-email": "gus+roam@xogito.com",
+        "create-time": 1604947789839,
+        "edit-email": "gus+roam@xogito.com",
+        "edit-time": 1604947983385,
+        "string": "#payroll",
+        "uid": "m6RjEcIw3"
+      },
+      {
+        "create-email": "gus+roam@xogito.com",
+        "create-time": 1604947789839,
+        "edit-email": "gus+roam@xogito.com",
+        "edit-time": 1604947789851,
+        "string": "select create contract-> spot/forward",
+        "uid": "Fi5bHTzgU"
+      },
+      {
+        "create-email": "gus+roam@xogito.com",
+        "create-time": 1604947789839,
+        "edit-email": "gus+roam@xogito.com",
+        "edit-time": 1604947789851,
+        "string": "choose either tenor or valuedate",
+        "uid": "WuB0JOjmE"
+      },
+      {
+        "create-email": "gus+roam@xogito.com",
+        "create-time": 1604947789839,
+        "edit-email": "gus+roam@xogito.com",
+        "edit-time": 1604947789851,
+        "string": "the currency I am buying (JPM Sell) should be selected and the amount I want to buy filled in",
+        "uid": "eGKNooXsV"
+      },
+      {
+        "create-email": "gus+roam@xogito.com",
+        "create-time": 1604947789839,
+        "edit-email": "gus+roam@xogito.com",
+        "edit-time": 1604947789851,
+        "string": "Make sure to select the JPM BUY as USD (that is what currency I am using to buy the foreign currency)",
+        "uid": "G-CT9Rc_9"
+      },
+      {
+        "create-email": "gus+roam@xogito.com",
+        "create-time": 1604947789839,
+        "edit-email": "gus+roam@xogito.com",
+        "edit-time": 1604947789851,
+        "string": "then select the Price $1 to get rate",
+        "uid": "_J5DS9uL1"
+      },
+      {
+        "create-email": "gus+roam@xogito.com",
+        "create-time": 1604947789839,
+        "edit-email": "gus+roam@xogito.com",
+        "edit-time": 1604947789851,
+        "string": "Once a price comes back select \"Accept\" button",
+        "uid": "F1AEu0afS"
+      },
+      {
+        "create-email": "gus+roam@xogito.com",
+        "create-time": 1604947789839,
+        "edit-email": "gus+roam@xogito.com",
+        "edit-time": 1604947789851,
+        "string": "In settlements go to the From Tab and select my USD CHase Account",
+        "uid": "tnJwO8IYe"
+      },
+      {
+        "create-email": "gus+roam@xogito.com",
+        "create-time": 1604947789839,
+        "edit-email": "gus+roam@xogito.com",
+        "edit-time": 1604947789851,
+        "string": "In Settlements go to the TO tab",
+        "uid": "rILLyDoHs"
+      },
+      {
+        "create-email": "gus+roam@xogito.com",
+        "create-time": 1604947789839,
+        "edit-email": "gus+roam@xogito.com",
+        "edit-time": 1604947789851,
+        "string": "in there add all benis and the amount",
+        "uid": "3DXkHwcV-"
+      },
+      {
+        "create-email": "gus+roam@xogito.com",
+        "create-time": 1604947789839,
+        "edit-email": "gus+roam@xogito.com",
+        "edit-time": 1604947789851,
+        "string": "After all setup go to FX Inbox",
+        "uid": "e_AstVs-z"
+      },
+      {
+        "create-email": "gus+roam@xogito.com",
+        "create-time": 1604947789839,
+        "edit-email": "gus+roam@xogito.com",
+        "edit-time": 1604947789852,
+        "string": "Select thje \"Payments/Settlements Pending Release\"",
+        "uid": "jeCMFA4dN"
+      },
+      {
+        "create-email": "gus+roam@xogito.com",
+        "create-time": 1604947789839,
+        "edit-email": "gus+roam@xogito.com",
+        "edit-time": 1604947789852,
+        "string": "and release them. ",
+        "uid": "t_uNCQ_-7"
+      },
+      {
+        "create-email": "gus+roam@xogito.com",
+        "create-time": 1604947789839,
+        "edit-email": "gus+roam@xogito.com",
+        "edit-time": 1604947789852,
+        "string": "All done!",
+        "uid": "JVY_HTGf_"
+      }
+    ],
+    "create-email": "gus+roam@xogito.com",
+    "create-time": 1604947787210,
+    "edit-email": "gus+roam@xogito.com",
+    "edit-time": 1604947973993,
+    "title": "jpmorgan payroll procedure"
+  },
+  {
+    "create-email": "gus+roam@xogito.com",
+    "create-time": 1604947983386,
+    "edit-email": "gus+roam@xogito.com",
+    "edit-time": 1604947983387,
+    "title": "payroll"
   }
 ]

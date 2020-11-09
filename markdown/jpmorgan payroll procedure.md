@@ -1,0 +1,14 @@
+- #payroll
+- select create contract-> spot/forward
+- choose either tenor or valuedate
+- the currency I am buying (JPM Sell) should be selected and the amount I want to buy filled in
+- Make sure to select the JPM BUY as USD (that is what currency I am using to buy the foreign currency)
+- then select the Price $1 to get rate
+- Once a price comes back select "Accept" button
+- In settlements go to the From Tab and select my USD CHase Account
+- In Settlements go to the TO tab
+- in there add all benis and the amount
+- After all setup go to FX Inbox
+- Select thje "Payments/Settlements Pending Release"
+- and release them. 
+- All done!
