@@ -1,0 +1,4 @@
+- #[[November 28th, 2020]]
+    - This iis a thing I started
+    - Let's write about some stuff. 
+- 
