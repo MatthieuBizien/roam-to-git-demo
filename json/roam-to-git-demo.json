@@ -2994,5 +2994,30 @@
     "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1608251170557,
     "title": "December 18th, 2020"
+  },
+  {
+    "children": [
+      {
+        "create-email": "oao2005@gmail.com",
+        "create-time": 1608291580551,
+        "edit-email": "oao2005@gmail.com",
+        "edit-time": 1608291596637,
+        "string": "Reproduction of https://github.com/MatthieuBizien/roam-to-git/issues/79",
+        "uid": "Gs1v97WXc"
+      },
+      {
+        "create-email": "oao2005@gmail.com",
+        "create-time": 1608291596628,
+        "edit-email": "oao2005@gmail.com",
+        "edit-time": 1608291596628,
+        "string": "",
+        "uid": "xIH2VBRB4"
+      }
+    ],
+    "create-email": "oao2005@gmail.com",
+    "create-time": 1608291579299,
+    "edit-email": "oao2005@gmail.com",
+    "edit-time": 1608291579299,
+    "title": "Like optical illusions, intellectual illusions can trick us into thinking something that isn't actually there or true. As with optical illusions, even when we know they are there we still have to actively override our default perception to get to the truth behind the illusion"
   }
 ]
