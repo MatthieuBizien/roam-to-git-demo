@@ -1,5 +1,8 @@
 [
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
         ":block/refs": [
@@ -7,9 +10,13 @@
             ":block/uid": "woGX7jkxl"
           }
         ],
-        "create-email": "oao2005+1@gmail.com",
+        ":create/user": {
+          ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+        },
+        ":edit/user": {
+          ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+        },
         "create-time": 1587252898938,
-        "edit-email": "oao2005+1@gmail.com",
         "edit-time": 1587252910036,
         "refs": [
           {
@@ -25,9 +32,13 @@
             ":block/uid": "vLVS7dd62"
           }
         ],
-        "create-email": "oao2005+1@gmail.com",
+        ":create/user": {
+          ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+        },
+        ":edit/user": {
+          ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+        },
         "create-time": 1587252910032,
-        "edit-email": "oao2005+1@gmail.com",
         "edit-time": 1587253669994,
         "refs": [
           {
@@ -38,9 +49,13 @@
         "uid": "OMImkJOmj"
       },
       {
-        "create-email": "oao2005@gmail.com",
+        ":create/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
+        ":edit/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
         "create-time": 1587253990746,
-        "edit-email": "oao2005@gmail.com",
         "edit-time": 1587253990746,
         "string": "",
         "uid": "3Zm5lwDJY"
@@ -57,9 +72,13 @@
             ":block/uid": "8MPLyfI-X"
           }
         ],
-        "create-email": "oao2005+1@gmail.com",
+        ":create/user": {
+          ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+        },
+        ":edit/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
         "create-time": 1587253669990,
-        "edit-email": "oao2005@gmail.com",
         "edit-time": 1590099682430,
         "refs": [
           {
@@ -76,104 +95,154 @@
         "uid": "ccLEFZY65"
       },
       {
-        "create-email": "oao2005@gmail.com",
+        ":create/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
+        ":edit/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
         "create-time": 1587254007416,
-        "edit-email": "oao2005@gmail.com",
         "edit-time": 1587254007416,
         "string": "",
         "uid": "mt4DYrPAF"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1587252878470,
     "title": "April 19th, 2020",
     "uid": "04-19-2020"
   },
   {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "oao2005+1@gmail.com",
+        ":create/user": {
+          ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+        },
+        ":edit/user": {
+          ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+        },
         "create-time": 1587252949776,
-        "edit-email": "oao2005+1@gmail.com",
         "edit-time": 1587252952475,
         "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-to-git-demo%2FlDuCNuwDSk?alt=media&token=e444f713-a13b-4541-b5ac-374309878f89)",
         "uid": "AQPVsVeqX"
       },
       {
-        "create-email": "oao2005+1@gmail.com",
+        ":create/user": {
+          ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+        },
+        ":edit/user": {
+          ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+        },
         "create-time": 1587252955529,
-        "edit-email": "oao2005+1@gmail.com",
         "edit-time": 1587252955529,
         "string": "",
         "uid": "I6uA_7kcr"
       }
     ],
-    "create-email": "oao2005+1@gmail.com",
     "create-time": 1587252908667,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1587252908672,
     "title": "World",
     "uid": "woGX7jkxl"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "root@stvad.org",
+        ":create/user": {
+          ":user/uid": "6bJAKBYrpIcPZBpFEpexUwW3x5r1"
+        },
+        ":edit/user": {
+          ":user/uid": "6bJAKBYrpIcPZBpFEpexUwW3x5r1"
+        },
         "create-time": 1587254865258,
-        "edit-email": "root@stvad.org",
         "edit-time": 1587254942417,
         "string": "\ud83d\udc4b",
         "uid": "8OTFqLCGd"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1587253369909,
     "title": "April 18th, 2020",
     "uid": "04-18-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "oao2005+1@gmail.com",
+        ":create/user": {
+          ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+        },
+        ":edit/user": {
+          ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+        },
         "create-time": 1587253582187,
-        "edit-email": "oao2005+1@gmail.com",
         "edit-time": 1587253658404,
         "string": "Welcome to the demo of [roam-to-git](https://github.com/MatthieuBizien/roam-to-git).",
         "uid": "pKoVGPjNl"
       },
       {
-        "create-email": "oao2005@gmail.com",
+        ":create/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
+        ":edit/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
         "create-time": 1587254293365,
-        "edit-email": "oao2005@gmail.com",
         "edit-time": 1587254293365,
         "string": "",
         "uid": "m44DO5V6n"
       },
       {
-        "create-email": "oao2005@gmail.com",
+        ":create/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
+        ":edit/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
         "create-time": 1587254291822,
-        "edit-email": "oao2005@gmail.com",
         "edit-time": 1587254327607,
         "string": "Everything in this directory has been written in Roam, and automatically transformed, to appear here.",
         "uid": "y0xOCN8FJ"
       },
       {
-        "create-email": "oao2005@gmail.com",
+        ":create/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
+        ":edit/user": {
+          ":user/uid": "8WeQ7isnB5TUqBNIzD8GMADXJ5S2"
+        },
         "create-time": 1587254291665,
-        "edit-email": "holz.philipp@gmx.de",
         "edit-time": 1592316442927,
         "string": "Test",
         "uid": "TrhpdLYKN"
       },
       {
-        "create-email": "oao2005+1@gmail.com",
+        ":create/user": {
+          ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+        },
+        ":edit/user": {
+          ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+        },
         "create-time": 1587253597384,
-        "edit-email": "oao2005+1@gmail.com",
         "edit-time": 1587253653743,
         "string": "You can [modify it](https://roamresearch.com/#/app/roam-to-git-demo) and see the result in [Github](https://github.com/MatthieuBizien/roam-to-git-demo)!",
         "uid": "zAS9sAUyb"
       },
       {
+        ":create/user": {
+          ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+        },
+        ":edit/user": {
+          ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+        },
         "children": [
           {
             ":block/refs": [
@@ -187,9 +256,13 @@
                 ":block/uid": "8MPLyfI-X"
               }
             ],
-            "create-email": "alexjj@gmail.com",
+            ":create/user": {
+              ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+            },
+            ":edit/user": {
+              ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+            },
             "create-time": 1593169232612,
-            "edit-email": "alexjj@gmail.com",
             "edit-time": 1593169242294,
             "refs": [
               {
@@ -206,23 +279,24 @@
             "uid": "6AsP4hpx3"
           },
           {
-            "create-email": "alexjj@gmail.com",
+            ":create/user": {
+              ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+            },
+            ":edit/user": {
+              ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+            },
             "create-time": 1593169245094,
-            "edit-email": "alexjj@gmail.com",
             "edit-time": 1593169245094,
             "string": "",
             "uid": "kohQLcpj0"
           }
         ],
-        "create-email": "oao2005+1@gmail.com",
         "create-time": 1587253648435,
-        "edit-email": "alexjj@gmail.com",
         "edit-time": 1593169232616,
         "string": "very nice.",
         "uid": "FIGY5Be_P"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1587253581211,
     "title": "README",
     "uid": "vLVS7dd62"
@@ -236,9 +310,13 @@
         ":block/uid": "8MPLyfI-X"
       }
     ],
-    "create-email": "oao2005@gmail.com",
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
     "create-time": 1587253993719,
-    "edit-email": "oao2005@gmail.com",
     "edit-time": 1587253993723,
     "refs": [
       {
@@ -257,9 +335,13 @@
         ":block/uid": "8MPLyfI-X"
       }
     ],
-    "create-email": "oao2005@gmail.com",
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
     "create-time": 1587253993719,
-    "edit-email": "oao2005@gmail.com",
     "edit-time": 1587253993723,
     "refs": [
       {
@@ -270,6 +352,12 @@
     "uid": "i6NTDWrEk"
   },
   {
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
     "children": [
       {
         ":block/refs": [
@@ -294,175 +382,231 @@
         "uid": "eIkzebMYg"
       }
     ],
-    "create-email": "oao2005@gmail.com",
     "create-time": 1587253993719,
-    "edit-email": "oao2005@gmail.com",
     "edit-time": 1587253993723,
     "title": "abstraction",
     "uid": "8MPLyfI-X"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1587341170732,
     "title": "April 20th, 2020",
     "uid": "04-20-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1587427555109,
     "title": "April 21st, 2020",
     "uid": "04-21-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1587513969252,
     "title": "April 22nd, 2020",
     "uid": "04-22-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1587600351108,
     "title": "April 23rd, 2020",
     "uid": "04-23-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1587686758886,
     "title": "April 24th, 2020",
     "uid": "04-24-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1587773188157,
     "title": "April 25th, 2020",
     "uid": "04-25-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1587859546176,
     "title": "April 26th, 2020",
     "uid": "04-26-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "holz.philipp@gmx.de",
+        ":create/user": {
+          ":user/uid": "8WeQ7isnB5TUqBNIzD8GMADXJ5S2"
+        },
+        ":edit/user": {
+          ":user/uid": "8WeQ7isnB5TUqBNIzD8GMADXJ5S2"
+        },
         "create-time": 1588436671286,
-        "edit-email": "holz.philipp@gmx.de",
         "edit-time": 1588436675268,
         "string": "This is a test",
         "uid": "_BlP071KV"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1587945968523,
     "title": "April 27th, 2020",
     "uid": "04-27-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "myautsai@gmail.com",
+        ":create/user": {
+          ":user/uid": "bOkCQRLjWvfLKOwifuSgLw0dmAQ2"
+        },
+        ":edit/user": {
+          ":user/uid": "bOkCQRLjWvfLKOwifuSgLw0dmAQ2"
+        },
         "create-time": 1588409845026,
-        "edit-email": "myautsai@gmail.com",
         "edit-time": 1588409845026,
         "string": "",
         "uid": "ptwIyHHVz"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1588032515505,
     "title": "April 28th, 2020",
     "uid": "04-28-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1588118854127,
     "title": "April 29th, 2020",
     "uid": "04-29-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1588205167341,
     "title": "April 30th, 2020",
     "uid": "04-30-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1588291604638,
     "title": "May 1st, 2020",
     "uid": "05-01-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "myautsai@gmail.com",
+        ":create/user": {
+          ":user/uid": "bOkCQRLjWvfLKOwifuSgLw0dmAQ2"
+        },
+        ":edit/user": {
+          ":user/uid": "bOkCQRLjWvfLKOwifuSgLw0dmAQ2"
+        },
         "create-time": 1588409842105,
-        "edit-email": "myautsai@gmail.com",
         "edit-time": 1588409842105,
         "string": "",
         "uid": "EK5G-xZri"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1588381686665,
     "title": "May 2nd, 2020",
     "uid": "05-02-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1588464386043,
     "title": "May 3rd, 2020",
     "uid": "05-03-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1588550800271,
     "title": "May 4th, 2020",
     "uid": "05-04-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1588637192144,
     "title": "May 5th, 2020",
     "uid": "05-05-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "ramene.anthony@gmail.com",
+        ":create/user": {
+          ":user/uid": "mELlKBADAEXKw6nWyMafOLsvLC53"
+        },
+        ":edit/user": {
+          ":user/uid": "mELlKBADAEXKw6nWyMafOLsvLC53"
+        },
         "create-time": 1588968980260,
-        "edit-email": "ramene.anthony@gmail.com",
         "edit-time": 1588968980260,
         "string": "",
         "uid": "cK5tlVaaT"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1588723608330,
     "title": "May 6th, 2020",
     "uid": "05-06-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1588809987960,
     "title": "May 7th, 2020",
     "uid": "05-07-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1588896411935,
     "title": "May 8th, 2020",
     "uid": "05-08-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1588982836508,
     "title": "May 9th, 2020",
     "uid": "05-09-2020"
   },
   {
-    "edit-email": "palash.karia@gmail.com",
+    ":edit/user": {
+      ":user/uid": "ekuDSzEuPaWdsloVWrMSBBl0yOJ3"
+    },
     "edit-time": 1589053589355,
     "title": "May 10th, 2020",
     "uid": "05-10-2020"
@@ -470,9 +614,13 @@
   {
     "children": [
       {
-        "create-email": "smluckyman007@gmail.com",
+        ":create/user": {
+          ":user/uid": "KNFsa8XFoOZtfEOyP3UMBDJHxo82"
+        },
+        ":edit/user": {
+          ":user/uid": "KNFsa8XFoOZtfEOyP3UMBDJHxo82"
+        },
         "create-time": 1589185501914,
-        "edit-email": "smluckyman007@gmail.com",
         "edit-time": 1589185509817,
         "string": "Lets check it out",
         "uid": "3r4OIHAxJ"
@@ -483,34 +631,47 @@
     "uid": "05-11-2020"
   },
   {
-    "edit-email": "smluckyman007@gmail.com",
+    ":edit/user": {
+      ":user/uid": "KNFsa8XFoOZtfEOyP3UMBDJHxo82"
+    },
     "edit-time": 1589226743449,
     "title": "May 12th, 2020",
     "uid": "05-12-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1589335651617,
     "title": "May 13th, 2020",
     "uid": "05-13-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
     "children": [
       {
-        "create-email": "carnegieshawn@gmail.com",
+        ":create/user": {
+          ":user/uid": "BVYciuAaORfg3n3h0V3y3Y9pcG43"
+        },
+        ":edit/user": {
+          ":user/uid": "BVYciuAaORfg3n3h0V3y3Y9pcG43"
+        },
         "create-time": 1589479134673,
-        "edit-email": "carnegieshawn@gmail.com",
         "edit-time": 1589479134673,
         "string": "",
         "uid": "eY28eZl96"
       }
     ],
-    "edit-email": "oao2005@gmail.com",
     "edit-time": 1589408978482,
     "title": "May 14th, 2020",
     "uid": "05-14-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
         "create-time": 1589529027468,
@@ -519,18 +680,22 @@
         "uid": "RT_QtI59T"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1589501237269,
     "title": "May 15th, 2020",
     "uid": "05-15-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1589587649325,
     "title": "May 16th, 2020",
     "uid": "05-16-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
         ":block/refs": [
@@ -538,9 +703,13 @@
             ":block/uid": "hZ3NEs62U"
           }
         ],
-        "create-email": "felipe@portella.com.br",
+        ":create/user": {
+          ":user/uid": "vJWhSoM7xTeFdHtp6sLzpWKhhkr2"
+        },
+        ":edit/user": {
+          ":user/uid": "vJWhSoM7xTeFdHtp6sLzpWKhhkr2"
+        },
         "create-time": 1589737379011,
-        "edit-email": "felipe@portella.com.br",
         "edit-time": 1589737400172,
         "refs": [
           {
@@ -551,28 +720,38 @@
         "uid": "tvTnTd_-r"
       },
       {
-        "create-email": "felipe@portella.com.br",
+        ":create/user": {
+          ":user/uid": "vJWhSoM7xTeFdHtp6sLzpWKhhkr2"
+        },
+        ":edit/user": {
+          ":user/uid": "vJWhSoM7xTeFdHtp6sLzpWKhhkr2"
+        },
         "create-time": 1589737400968,
-        "edit-email": "felipe@portella.com.br",
         "edit-time": 1589737400968,
         "string": "",
         "uid": "XB0CW9vEj"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1589674055626,
     "title": "May 17th, 2020",
     "uid": "05-17-2020"
   },
   {
-    "create-email": "felipe@portella.com.br",
+    ":create/user": {
+      ":user/uid": "vJWhSoM7xTeFdHtp6sLzpWKhhkr2"
+    },
+    ":edit/user": {
+      ":user/uid": "vJWhSoM7xTeFdHtp6sLzpWKhhkr2"
+    },
     "create-time": 1589737392442,
-    "edit-email": "felipe@portella.com.br",
     "edit-time": 1589737392446,
     "title": "DEMO",
     "uid": "hZ3NEs62U"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
         "create-time": 1589764373468,
@@ -683,25 +862,30 @@
         "uid": "D3Y605CWN"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1589760439928,
     "title": "May 18th, 2020",
     "uid": "05-18-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1589846856910,
     "title": "May 19th, 2020",
     "uid": "05-19-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1589933249245,
     "title": "May 20th, 2020",
     "uid": "05-20-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1590019665934,
     "title": "May 21st, 2020",
     "uid": "05-21-2020"
@@ -709,9 +893,13 @@
   {
     "children": [
       {
-        "create-email": "shuyi.wang@unt.edu",
+        ":create/user": {
+          ":user/uid": "Cefp3cMv4AMhgcB9aczjH4HiMG52"
+        },
+        ":edit/user": {
+          ":user/uid": "Cefp3cMv4AMhgcB9aczjH4HiMG52"
+        },
         "create-time": 1590120813906,
-        "edit-email": "shuyi.wang@unt.edu",
         "edit-time": 1590120813906,
         "string": "",
         "uid": "pcGS4ag6f"
@@ -775,8 +963,20 @@
             ":block/uid": "a_BqW-f_p"
           }
         ],
+        ":create/user": {
+          ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+        },
+        ":edit/user": {
+          ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+        },
         "children": [
           {
+            ":create/user": {
+              ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+            },
+            ":edit/user": {
+              ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+            },
             "children": [
               {
                 ":block/refs": [
@@ -784,9 +984,13 @@
                     ":block/uid": "06-27-2020"
                   }
                 ],
-                "create-email": "alexjj@gmail.com",
+                ":create/user": {
+                  ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+                },
                 "create-time": 1593169270604,
-                "edit-email": "alexjj@gmail.com",
                 "edit-time": 1593169294555,
                 "refs": [
                   {
@@ -805,35 +1009,51 @@
                     ":block/uid": "pUUD94tVc"
                   }
                 ],
+                ":create/user": {
+                  ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+                },
+                ":edit/user": {
+                  ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+                },
                 "children": [
                   {
-                    "create-email": "alexjj@gmail.com",
+                    ":create/user": {
+                      ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+                    },
                     "create-time": 1593169307965,
-                    "edit-email": "alexjj@gmail.com",
                     "edit-time": 1593169313203,
                     "string": "2+4",
                     "uid": "O3Jz6XNo_"
                   },
                   {
-                    "create-email": "alexjj@gmail.com",
+                    ":create/user": {
+                      ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+                    },
                     "create-time": 1593169313196,
-                    "edit-email": "alexjj@gmail.com",
                     "edit-time": 1593169319708,
                     "string": "ham sandwiches",
                     "uid": "3JvsuRCde"
                   },
                   {
-                    "create-email": "alexjj@gmail.com",
+                    ":create/user": {
+                      ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+                    },
                     "create-time": 1593169319706,
-                    "edit-email": "alexjj@gmail.com",
                     "edit-time": 1593169319706,
                     "string": "",
                     "uid": "Zg76E_5nz"
                   }
                 ],
-                "create-email": "alexjj@gmail.com",
                 "create-time": 1593169295371,
-                "edit-email": "alexjj@gmail.com",
                 "edit-time": 1593169309475,
                 "refs": [
                   {
@@ -847,17 +1067,13 @@
                 "uid": "0_peEMX9O"
               }
             ],
-            "create-email": "alexjj@gmail.com",
             "create-time": 1593169264836,
-            "edit-email": "alexjj@gmail.com",
             "edit-time": 1593169270609,
             "string": "what happens now?",
             "uid": "7yeeLkVJ6"
           }
         ],
-        "create-email": "alexjj@gmail.com",
         "create-time": 1593169255304,
-        "edit-email": "alexjj@gmail.com",
         "edit-time": 1593169264841,
         "refs": [
           {
@@ -874,254 +1090,345 @@
     "uid": "U1XAv_na7"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1590192829023,
     "title": "May 23rd, 2020",
     "uid": "05-23-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1590279260339,
     "title": "May 24th, 2020",
     "uid": "05-24-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1590365634578,
     "title": "May 25th, 2020",
     "uid": "05-25-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1590452019999,
     "title": "May 26th, 2020",
     "uid": "05-26-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1590538439425,
     "title": "May 27th, 2020",
     "uid": "05-27-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1590624954365,
     "title": "May 28th, 2020",
     "uid": "05-28-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1590711089975,
     "title": "May 29th, 2020",
     "uid": "05-29-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1590797498533,
     "title": "May 30th, 2020",
     "uid": "05-30-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1590883887950,
     "title": "May 31st, 2020",
     "uid": "05-31-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1590970336315,
     "title": "June 1st, 2020",
     "uid": "06-01-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1591056698097,
     "title": "June 2nd, 2020",
     "uid": "06-02-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1591143096043,
     "title": "June 3rd, 2020",
     "uid": "06-03-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1591229480311,
     "title": "June 4th, 2020",
     "uid": "06-04-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "rudyd@missouri.edu",
+        ":create/user": {
+          ":user/uid": "P7jWaUjHrwWKFy2gLKQLmjLnZUe2"
+        },
+        ":edit/user": {
+          ":user/uid": "P7jWaUjHrwWKFy2gLKQLmjLnZUe2"
+        },
         "create-time": 1591413547831,
-        "edit-email": "rudyd@missouri.edu",
         "edit-time": 1591413571635,
         "string": "??? I don't get what is going on.",
         "uid": "bLCvl11N_"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1591315907054,
     "title": "June 5th, 2020",
     "uid": "06-05-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1591402280151,
     "title": "June 6th, 2020",
     "uid": "06-06-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "aselsabagh@gmail.com",
+        ":create/user": {
+          ":user/uid": "WYyQN9yo4UdmbC4SfUESHaYkYsG3"
+        },
+        ":edit/user": {
+          ":user/uid": "WYyQN9yo4UdmbC4SfUESHaYkYsG3"
+        },
         "create-time": 1591496950742,
-        "edit-email": "aselsabagh@gmail.com",
         "edit-time": 1591496952686,
         "string": "dsadas",
         "uid": "qw4SAjlEO"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1591488719793,
     "title": "June 7th, 2020",
     "uid": "06-07-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1591575150558,
     "title": "June 8th, 2020",
     "uid": "06-08-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1591661496781,
     "title": "June 9th, 2020",
     "uid": "06-09-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1591747933240,
     "title": "June 10th, 2020",
     "uid": "06-10-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1591834306104,
     "title": "June 11th, 2020",
     "uid": "06-11-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1591920723343,
     "title": "June 12th, 2020",
     "uid": "06-12-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "229408740@qq.com",
+        ":create/user": {
+          ":user/uid": "YKnbyn78FkNkRQB12bxlROqscD23"
+        },
+        ":edit/user": {
+          ":user/uid": "YKnbyn78FkNkRQB12bxlROqscD23"
+        },
         "create-time": 1592013157960,
-        "edit-email": "229408740@qq.com",
         "edit-time": 1592013166701,
         "string": "test",
         "uid": "Pi6u68h9_"
       },
       {
-        "create-email": "pedrompereira@gmail.com",
+        ":create/user": {
+          ":user/uid": "hNd1fFO3kvOuEj0PFXYxMUK8dvU2"
+        },
+        ":edit/user": {
+          ":user/uid": "hNd1fFO3kvOuEj0PFXYxMUK8dvU2"
+        },
         "create-time": 1592343355249,
-        "edit-email": "pedrompereira@gmail.com",
         "edit-time": 1592343355249,
         "string": "",
         "uid": "ouzgsbhMZ"
       },
       {
-        "create-email": "229408740@qq.com",
+        ":create/user": {
+          ":user/uid": "YKnbyn78FkNkRQB12bxlROqscD23"
+        },
+        ":edit/user": {
+          ":user/uid": "YKnbyn78FkNkRQB12bxlROqscD23"
+        },
         "create-time": 1592013166693,
-        "edit-email": "229408740@qq.com",
         "edit-time": 1592013166693,
         "string": "",
         "uid": "J1qoNxwWo"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1592007154138,
     "title": "June 13th, 2020",
     "uid": "06-13-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1592093561736,
     "title": "June 14th, 2020",
     "uid": "06-14-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1592179902690,
     "title": "June 15th, 2020",
     "uid": "06-15-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1592266330015,
     "title": "June 16th, 2020",
     "uid": "06-16-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1592352735969,
     "title": "June 17th, 2020",
     "uid": "06-17-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1592439130886,
     "title": "June 18th, 2020",
     "uid": "06-18-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1592525526520,
     "title": "June 19th, 2020",
     "uid": "06-19-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "willzhqiang@gmail.com",
+        ":create/user": {
+          ":user/uid": "xXOVb4PyprVtGk1FqioPmEoOoZi1"
+        },
+        ":edit/user": {
+          ":user/uid": "xXOVb4PyprVtGk1FqioPmEoOoZi1"
+        },
         "create-time": 1592624098419,
-        "edit-email": "willzhqiang@gmail.com",
         "edit-time": 1592624098419,
         "string": "",
         "uid": "jGgn2_fuO"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1592611936530,
     "title": "June 20th, 2020",
     "uid": "06-20-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1592698367865,
     "title": "June 21st, 2020",
     "uid": "06-21-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1592784739118,
     "title": "June 22nd, 2020",
     "uid": "06-22-2020"
   },
   {
-    "edit-email": "benjcarmichael@gmail.com",
+    ":edit/user": {
+      ":user/uid": "Ay4IM8SHQaaKNG6ATS7VXlHTiH13"
+    },
     "edit-time": 1592865633485,
     "title": "June 23rd, 2020",
     "uid": "06-23-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
         ":block/refs": [
@@ -1140,14 +1447,15 @@
         "uid": "UX9OFfXMp"
       },
       {
+        ":edit/user": {
+          ":user/uid": "D0k1hznoQmTpwGURgotwV5ZkPB93"
+        },
         "create-time": 1592972622821,
-        "edit-email": "sc.atomcat@gmail.com",
         "edit-time": 1593012509152,
         "string": "123",
         "uid": "mIGBZ9NTm"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1592957519293,
     "title": "June 24th, 2020",
     "uid": "06-24-2020"
@@ -1175,145 +1483,204 @@
     "uid": "xTGfdx3WJ"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "sc.atomcat@gmail.com",
+        ":create/user": {
+          ":user/uid": "D0k1hznoQmTpwGURgotwV5ZkPB93"
+        },
+        ":edit/user": {
+          ":user/uid": "D0k1hznoQmTpwGURgotwV5ZkPB93"
+        },
         "create-time": 1593075337241,
-        "edit-email": "sc.atomcat@gmail.com",
         "edit-time": 1593075337241,
         "string": "",
         "uid": "1xeFoORGg"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1593043984048,
     "title": "June 25th, 2020",
     "uid": "06-25-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1593130355458,
     "title": "June 26th, 2020",
     "uid": "06-26-2020"
   },
   {
-    "create-email": "alexjj@gmail.com",
+    ":create/user": {
+      ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+    },
+    ":edit/user": {
+      ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+    },
     "create-time": 1593169264843,
-    "edit-email": "alexjj@gmail.com",
     "edit-time": 1593169264844,
     "title": "yet another concept",
     "uid": "a_BqW-f_p"
   },
   {
+    ":create/user": {
+      ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+    },
+    ":edit/user": {
+      ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+    },
     "children": [
       {
-        "create-email": "alexjj@gmail.com",
+        ":create/user": {
+          ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+        },
+        ":edit/user": {
+          ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+        },
         "create-time": 1593169338300,
-        "edit-email": "alexjj@gmail.com",
         "edit-time": 1593169344984,
         "string": "TOMORROW NEVER COMES",
         "uid": "KVGOmYvMu"
       },
       {
-        "create-email": "alexjj@gmail.com",
+        ":create/user": {
+          ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+        },
+        ":edit/user": {
+          ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+        },
         "create-time": 1593169345365,
-        "edit-email": "alexjj@gmail.com",
         "edit-time": 1593169345365,
         "string": "",
         "uid": "a3t7VcCA3"
       }
     ],
-    "create-email": "alexjj@gmail.com",
     "create-time": 1593169285114,
-    "edit-email": "alexjj@gmail.com",
     "edit-time": 1593169285114,
     "title": "June 27th, 2020",
     "uid": "06-27-2020"
   },
   {
-    "create-email": "alexjj@gmail.com",
+    ":create/user": {
+      ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+    },
+    ":edit/user": {
+      ":user/uid": "xC7g1UYYJoXUvsDG38T9er3NRKg1"
+    },
     "create-time": 1593169309476,
-    "edit-email": "alexjj@gmail.com",
     "edit-time": 1593169309479,
     "title": "calc",
     "uid": "pUUD94tVc"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1593303185636,
     "title": "June 28th, 2020",
     "uid": "06-28-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1593389560708,
     "title": "June 29th, 2020",
     "uid": "06-29-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1593475959980,
     "title": "June 30th, 2020",
     "uid": "06-30-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1593562531627,
     "title": "July 1st, 2020",
     "uid": "07-01-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "3CCgkdLQ4ldFSySMQLeTOXonPnQ2"
+    },
     "children": [
       {
-        "create-email": "topic.society@gmail.com",
+        ":create/user": {
+          ":user/uid": "3CCgkdLQ4ldFSySMQLeTOXonPnQ2"
+        },
+        ":edit/user": {
+          ":user/uid": "3CCgkdLQ4ldFSySMQLeTOXonPnQ2"
+        },
         "create-time": 1593653236450,
-        "edit-email": "topic.society@gmail.com",
         "edit-time": 1593653236450,
         "string": "",
         "uid": "zWHEjqYgy"
       }
     ],
-    "edit-email": "topic.society@gmail.com",
     "edit-time": 1593647318833,
     "title": "July 2nd, 2020",
     "uid": "07-02-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1593735329539,
     "title": "July 3rd, 2020",
     "uid": "07-03-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1593821701225,
     "title": "July 4th, 2020",
     "uid": "07-04-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1593908160386,
     "title": "July 5th, 2020",
     "uid": "07-05-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1593994521202,
     "title": "July 6th, 2020",
     "uid": "07-06-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1594080925668,
     "title": "July 7th, 2020",
     "uid": "07-07-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "RkGli7vDEBcEdorQioLJNQaRcVh1"
+    },
     "children": [
       {
-        "create-email": "michoch@gmail.com",
+        ":create/user": {
+          ":user/uid": "RkGli7vDEBcEdorQioLJNQaRcVh1"
+        },
+        ":edit/user": {
+          ":user/uid": "RkGli7vDEBcEdorQioLJNQaRcVh1"
+        },
         "create-time": 1594150372053,
-        "edit-email": "michoch@gmail.com",
         "edit-time": 1594150400476,
         "string": "https://roamresearch.com/",
         "uid": "dV-SQJeVK"
@@ -1324,9 +1691,13 @@
             ":block/uid": "YYHGSmq-B"
           }
         ],
-        "create-email": "michoch@gmail.com",
+        ":create/user": {
+          ":user/uid": "RkGli7vDEBcEdorQioLJNQaRcVh1"
+        },
+        ":edit/user": {
+          ":user/uid": "RkGli7vDEBcEdorQioLJNQaRcVh1"
+        },
         "create-time": 1594150372826,
-        "edit-email": "michoch@gmail.com",
         "edit-time": 1594150672399,
         "refs": [
           {
@@ -1342,9 +1713,13 @@
             ":block/uid": "zgOHoe0pV"
           }
         ],
-        "create-email": "michoch@gmail.com",
+        ":create/user": {
+          ":user/uid": "RkGli7vDEBcEdorQioLJNQaRcVh1"
+        },
+        ":edit/user": {
+          ":user/uid": "RkGli7vDEBcEdorQioLJNQaRcVh1"
+        },
         "create-time": 1594150402848,
-        "edit-email": "michoch@gmail.com",
         "edit-time": 1594150412266,
         "refs": [
           {
@@ -1355,53 +1730,75 @@
         "uid": "wnLENB1PN"
       }
     ],
-    "edit-email": "michoch@gmail.com",
     "edit-time": 1594150363542,
     "title": "Roam Research",
     "uid": "rno73NVkf"
   },
   {
+    ":create/user": {
+      ":user/uid": "RkGli7vDEBcEdorQioLJNQaRcVh1"
+    },
+    ":edit/user": {
+      ":user/uid": "RkGli7vDEBcEdorQioLJNQaRcVh1"
+    },
     "children": [
       {
-        "create-email": "michoch@gmail.com",
+        ":create/user": {
+          ":user/uid": "RkGli7vDEBcEdorQioLJNQaRcVh1"
+        },
+        ":edit/user": {
+          ":user/uid": "RkGli7vDEBcEdorQioLJNQaRcVh1"
+        },
         "create-time": 1594150395629,
-        "edit-email": "michoch@gmail.com",
         "edit-time": 1594150396443,
         "string": "https://roamresearch.com/#/v8/help/page/dxTi-iUs2",
         "uid": "viGPA1ccW"
       }
     ],
-    "create-email": "michoch@gmail.com",
     "create-time": 1594150389372,
-    "edit-email": "michoch@gmail.com",
     "edit-time": 1594150672399,
     "title": "Roam Research/Change Log",
     "uid": "YYHGSmq-B"
   },
   {
+    ":create/user": {
+      ":user/uid": "RkGli7vDEBcEdorQioLJNQaRcVh1"
+    },
+    ":edit/user": {
+      ":user/uid": "RkGli7vDEBcEdorQioLJNQaRcVh1"
+    },
     "children": [
       {
-        "create-email": "michoch@gmail.com",
+        ":create/user": {
+          ":user/uid": "RkGli7vDEBcEdorQioLJNQaRcVh1"
+        },
+        ":edit/user": {
+          ":user/uid": "RkGli7vDEBcEdorQioLJNQaRcVh1"
+        },
         "create-time": 1594150413514,
-        "edit-email": "michoch@gmail.com",
         "edit-time": 1594150414128,
         "string": "https://roamresearch.freshdesk.com/support/discussions",
         "uid": "n7bapDeRt"
       }
     ],
-    "create-email": "michoch@gmail.com",
     "create-time": 1594150412269,
-    "edit-email": "michoch@gmail.com",
     "edit-time": 1594150412270,
     "title": "Roam Research/Support",
     "uid": "zgOHoe0pV"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "matthewtimothyspear@gmail.com",
+        ":create/user": {
+          ":user/uid": "GG3a0JEBizfGqxN5tnkmqeS4rdu2"
+        },
+        ":edit/user": {
+          ":user/uid": "GG3a0JEBizfGqxN5tnkmqeS4rdu2"
+        },
         "create-time": 1594172961450,
-        "edit-email": "matthewtimothyspear@gmail.com",
         "edit-time": 1594172968211,
         "string": "Hello World",
         "uid": "pJJDs8PKS"
@@ -1425,54 +1822,72 @@
         "uid": "xu4L8Xgn6"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1594167328821,
     "title": "July 8th, 2020",
     "uid": "07-08-2020"
   },
   {
-    "edit-email": "kozko2001@gmail.com",
+    ":edit/user": {
+      ":user/uid": "LGwFB0pS4TQ1EcpNHRCZwdOb2lu1"
+    },
     "edit-time": 1594250570158,
     "title": "July 9th, 2020",
     "uid": "07-09-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1594340146457,
     "title": "July 10th, 2020",
     "uid": "07-10-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "sihuih@gmail.com",
+        ":create/user": {
+          ":user/uid": "gbTUC2ttbkT6ZpmxhzVjAD6J3sN2"
+        },
+        ":edit/user": {
+          ":user/uid": "gbTUC2ttbkT6ZpmxhzVjAD6J3sN2"
+        },
         "create-time": 1594478680813,
-        "edit-email": "sihuih@gmail.com",
         "edit-time": 1594478682867,
         "string": "test",
         "uid": "WhJYDZ0E_"
       },
       {
-        "create-email": "sihuih@gmail.com",
+        ":create/user": {
+          ":user/uid": "gbTUC2ttbkT6ZpmxhzVjAD6J3sN2"
+        },
+        ":edit/user": {
+          ":user/uid": "gbTUC2ttbkT6ZpmxhzVjAD6J3sN2"
+        },
         "create-time": 1594478682912,
-        "edit-email": "sihuih@gmail.com",
         "edit-time": 1594478682912,
         "string": "",
         "uid": "VIoAUgFMX"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1594426546754,
     "title": "July 11th, 2020",
     "uid": "07-11-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1594512994720,
     "title": "July 12th, 2020",
     "uid": "07-12-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "PnKIVzl1aeM434GfVXRvf5bP7Tj2"
+    },
     "children": [
       {
         ":block/refs": [
@@ -1480,6 +1895,12 @@
             ":block/uid": "qPSodRHHW"
           }
         ],
+        ":create/user": {
+          ":user/uid": "GsOdfMLXvQWQ9eTUaiErjhwxJvK2"
+        },
+        ":edit/user": {
+          ":user/uid": "GsOdfMLXvQWQ9eTUaiErjhwxJvK2"
+        },
         "children": [
           {
             ":block/refs": [
@@ -1487,19 +1908,27 @@
                 ":block/uid": "qPSodRHHW"
               }
             ],
+            ":create/user": {
+              ":user/uid": "GsOdfMLXvQWQ9eTUaiErjhwxJvK2"
+            },
+            ":edit/user": {
+              ":user/uid": "GsOdfMLXvQWQ9eTUaiErjhwxJvK2"
+            },
             "children": [
               {
-                "create-email": "kalmir@gmail.com",
+                ":create/user": {
+                  ":user/uid": "GsOdfMLXvQWQ9eTUaiErjhwxJvK2"
+                },
+                ":edit/user": {
+                  ":user/uid": "GsOdfMLXvQWQ9eTUaiErjhwxJvK2"
+                },
                 "create-time": 1594628721128,
-                "edit-email": "kalmir@gmail.com",
                 "edit-time": 1594628725661,
                 "string": "Yes.",
                 "uid": "6S_0Qx320"
               }
             ],
-            "create-email": "kalmir@gmail.com",
             "create-time": 1594628701596,
-            "edit-email": "kalmir@gmail.com",
             "edit-time": 1594628721031,
             "refs": [
               {
@@ -1510,9 +1939,7 @@
             "uid": "UFbU-nGNM"
           }
         ],
-        "create-email": "kalmir@gmail.com",
         "create-time": 1594628690870,
-        "edit-email": "kalmir@gmail.com",
         "edit-time": 1594628701600,
         "refs": [
           {
@@ -1523,6 +1950,12 @@
         "uid": "Xe8nt_mJ1"
       },
       {
+        ":create/user": {
+          ":user/uid": "GsOdfMLXvQWQ9eTUaiErjhwxJvK2"
+        },
+        ":edit/user": {
+          ":user/uid": "GsOdfMLXvQWQ9eTUaiErjhwxJvK2"
+        },
         "children": [
           {
             ":block/refs": [
@@ -1530,7 +1963,9 @@
                 ":block/uid": "6S_0Qx320"
               }
             ],
-            "edit-email": "kalmir@gmail.com",
+            ":edit/user": {
+              ":user/uid": "GsOdfMLXvQWQ9eTUaiErjhwxJvK2"
+            },
             "edit-time": 1594628729964,
             "refs": [
               {
@@ -1541,80 +1976,102 @@
             "uid": "nAwOZdCS1"
           }
         ],
-        "create-email": "kalmir@gmail.com",
         "create-time": 1594628725657,
-        "edit-email": "kalmir@gmail.com",
         "edit-time": 1594628728682,
         "string": "Wonderful.",
         "uid": "sxgrVJRbx"
       }
     ],
-    "edit-email": "liugaolaw@gmail.com",
     "edit-time": 1594569864720,
     "title": "July 13th, 2020",
     "uid": "07-13-2020"
   },
   {
+    ":create/user": {
+      ":user/uid": "GsOdfMLXvQWQ9eTUaiErjhwxJvK2"
+    },
+    ":edit/user": {
+      ":user/uid": "GsOdfMLXvQWQ9eTUaiErjhwxJvK2"
+    },
     "children": [
       {
-        "create-email": "kalmir@gmail.com",
+        ":create/user": {
+          ":user/uid": "GsOdfMLXvQWQ9eTUaiErjhwxJvK2"
+        },
+        ":edit/user": {
+          ":user/uid": "GsOdfMLXvQWQ9eTUaiErjhwxJvK2"
+        },
         "create-time": 1594628732656,
-        "edit-email": "kalmir@gmail.com",
         "edit-time": 1594628744044,
         "string": "real deal",
         "uid": "QC6HdK-ze"
       }
     ],
-    "create-email": "kalmir@gmail.com",
     "create-time": 1594628701601,
-    "edit-email": "kalmir@gmail.com",
     "edit-time": 1594628701603,
     "title": "real",
     "uid": "qPSodRHHW"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1594685752449,
     "title": "July 14th, 2020",
     "uid": "07-14-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1594772188882,
     "title": "July 15th, 2020",
     "uid": "07-15-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1594858571163,
     "title": "July 16th, 2020",
     "uid": "07-16-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1594944969512,
     "title": "July 17th, 2020",
     "uid": "07-17-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1595031371863,
     "title": "July 18th, 2020",
     "uid": "07-18-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1595117813776,
     "title": "July 19th, 2020",
     "uid": "07-19-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1595204197689,
     "title": "July 20th, 2020",
     "uid": "07-20-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
     "children": [
       {
         ":block/refs": [
@@ -1637,9 +2094,13 @@
             ":block/uid": "NGE0xa64e"
           }
         ],
-        "create-email": "oao2005@gmail.com",
+        ":create/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
+        ":edit/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
         "create-time": 1595253307627,
-        "edit-email": "oao2005@gmail.com",
         "edit-time": 1595253308748,
         "refs": [
           {
@@ -1665,208 +2126,286 @@
         "uid": "9tpAWf7Oh"
       },
       {
-        "create-email": "oao2005@gmail.com",
+        ":create/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
+        ":edit/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
         "create-time": 1595253308740,
-        "edit-email": "oao2005@gmail.com",
         "edit-time": 1595253308740,
         "string": "",
         "uid": "ESU8Key7L"
       }
     ],
-    "edit-email": "oao2005@gmail.com",
     "edit-time": 1595253306677,
     "title": "Bug 34",
     "uid": "ZUijqIYyT"
   },
   {
-    "create-email": "oao2005@gmail.com",
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
     "create-time": 1595253308750,
-    "edit-email": "oao2005@gmail.com",
     "edit-time": 1595253308754,
     "title": "\ud83d\udca12",
     "uid": "mtZhZhKfE"
   },
   {
-    "create-email": "oao2005@gmail.com",
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
     "create-time": 1595253308750,
-    "edit-email": "oao2005@gmail.com",
     "edit-time": 1595253308754,
     "title": "Denken",
     "uid": "JZSe4SLgC"
   },
   {
-    "create-email": "oao2005@gmail.com",
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
     "create-time": 1595253308750,
-    "edit-email": "oao2005@gmail.com",
     "edit-time": 1595253308754,
     "title": "Lernen",
     "uid": "ylhOXS0_T"
   },
   {
-    "create-email": "oao2005@gmail.com",
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
     "create-time": 1595253308750,
-    "edit-email": "oao2005@gmail.com",
     "edit-time": 1595253308754,
     "title": "Glaubens\u00e4tze",
     "uid": "nuT6OHmGh"
   },
   {
-    "create-email": "oao2005@gmail.com",
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
     "create-time": 1595253308750,
-    "edit-email": "oao2005@gmail.com",
     "edit-time": 1595253308754,
     "title": "Definitionen",
     "uid": "Ow4Bz_AYb"
   },
   {
-    "create-email": "oao2005@gmail.com",
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
     "create-time": 1595253308750,
-    "edit-email": "oao2005@gmail.com",
     "edit-time": 1595253308754,
     "title": "Themen",
     "uid": "NGE0xa64e"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1595290587680,
     "title": "July 21st, 2020",
     "uid": "07-21-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1595376986698,
     "title": "July 22nd, 2020",
     "uid": "07-22-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1595463403725,
     "title": "July 23rd, 2020",
     "uid": "07-23-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1595549787385,
     "title": "July 24th, 2020",
     "uid": "07-24-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1595636203988,
     "title": "July 25th, 2020",
     "uid": "07-25-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1595722640570,
     "title": "July 26th, 2020",
     "uid": "07-26-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1595809029831,
     "title": "July 27th, 2020",
     "uid": "07-27-2020"
   },
   {
-    "edit-email": "davidcheng06@gmail.com",
+    ":edit/user": {
+      ":user/uid": "1nH12idXmAPzvONapRVxZSCTGZq1"
+    },
     "edit-time": 1595868609438,
     "title": "July 28th, 2020",
     "uid": "07-28-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1595981744764,
     "title": "July 29th, 2020",
     "uid": "07-29-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1596068245846,
     "title": "July 30th, 2020",
     "uid": "07-30-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1596154649238,
     "title": "July 31st, 2020",
     "uid": "07-31-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "justrepeat@qq.com",
+        ":create/user": {
+          ":user/uid": "lOymaTNrwrPCwfdtCXbLhITqwTo1"
+        },
+        ":edit/user": {
+          ":user/uid": "lOymaTNrwrPCwfdtCXbLhITqwTo1"
+        },
         "create-time": 1596270350500,
-        "edit-email": "justrepeat@qq.com",
         "edit-time": 1596270357661,
         "string": "new file",
         "uid": "Oc8QPYfiN"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1596241065294,
     "title": "August 1st, 2020",
     "uid": "08-01-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1596327492478,
     "title": "August 2nd, 2020",
     "uid": "08-02-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1596413892004,
     "title": "August 3rd, 2020",
     "uid": "08-03-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1596500299365,
     "title": "August 4th, 2020",
     "uid": "08-04-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1596586690590,
     "title": "August 5th, 2020",
     "uid": "08-05-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1596673091545,
     "title": "August 6th, 2020",
     "uid": "08-06-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1596759529251,
     "title": "August 7th, 2020",
     "uid": "08-07-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1596845922375,
     "title": "August 8th, 2020",
     "uid": "08-08-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "erik.newhard@gmail.com",
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
         "create-time": 1597012431948,
-        "edit-email": "erik.newhard@gmail.com",
         "edit-time": 1597012435781,
         "string": "test",
         "uid": "f2wLMOoB_"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1596932351607,
     "title": "August 9th, 2020",
     "uid": "08-09-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
         "create-time": 1597051861305,
@@ -1891,7 +2430,6 @@
         "uid": "mClX20VB8"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1597018750411,
     "title": "August 10th, 2020",
     "uid": "08-10-2020"
@@ -1903,248 +2441,335 @@
     "uid": "smsNL8U7o"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1597105111828,
     "title": "August 11th, 2020",
     "uid": "08-11-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1597191520328,
     "title": "August 12th, 2020",
     "uid": "08-12-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1597277913031,
     "title": "August 13th, 2020",
     "uid": "08-13-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1597364332335,
     "title": "August 14th, 2020",
     "uid": "08-14-2020"
   },
   {
-    "edit-email": "khabarov.sv@phystech.edu",
+    ":edit/user": {
+      ":user/uid": "jH3GHJOMuIRLY8wepvgcbUU6NRB2"
+    },
     "edit-time": 1597440868279,
     "title": "August 15th, 2020",
     "uid": "08-15-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1597537174843,
     "title": "August 16th, 2020",
     "uid": "08-16-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1597623569351,
     "title": "August 17th, 2020",
     "uid": "08-17-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1597709929498,
     "title": "August 18th, 2020",
     "uid": "08-18-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1597796358869,
     "title": "August 19th, 2020",
     "uid": "08-19-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1597882738967,
     "title": "August 20th, 2020",
     "uid": "08-20-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "gtdmao@gmail.com",
+        ":create/user": {
+          ":user/uid": "XB8RgLBaN8X0yFCMK4GDG69v2wc2"
+        },
+        ":edit/user": {
+          ":user/uid": "XB8RgLBaN8X0yFCMK4GDG69v2wc2"
+        },
         "create-time": 1597990911388,
-        "edit-email": "gtdmao@gmail.com",
         "edit-time": 1597990913173,
         "string": "test",
         "uid": "Z9bkqC0lo"
       },
       {
-        "create-email": "gtdmao@gmail.com",
+        ":create/user": {
+          ":user/uid": "XB8RgLBaN8X0yFCMK4GDG69v2wc2"
+        },
+        ":edit/user": {
+          ":user/uid": "XB8RgLBaN8X0yFCMK4GDG69v2wc2"
+        },
         "create-time": 1597990918339,
-        "edit-email": "gtdmao@gmail.com",
         "edit-time": 1597990918339,
         "string": "",
         "uid": "zKR-vNsa5"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1597969176643,
     "title": "August 21st, 2020",
     "uid": "08-21-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1598055587236,
     "title": "August 22nd, 2020",
     "uid": "08-22-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1598142029432,
     "title": "August 23rd, 2020",
     "uid": "08-23-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1598228403812,
     "title": "August 24th, 2020",
     "uid": "08-24-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1598314791820,
     "title": "August 25th, 2020",
     "uid": "08-25-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1598401198161,
     "title": "August 26th, 2020",
     "uid": "08-26-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1598490472044,
     "title": "August 27th, 2020",
     "uid": "08-27-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1598574151910,
     "title": "August 28th, 2020",
     "uid": "08-28-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1598660188691,
     "title": "August 29th, 2020",
     "uid": "08-29-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "tangshuling@nudt.edu.cn",
+        ":create/user": {
+          ":user/uid": "xCzCVdH1L2aBAKGYXI3JIBZPH4b2"
+        },
+        ":edit/user": {
+          ":user/uid": "xCzCVdH1L2aBAKGYXI3JIBZPH4b2"
+        },
         "create-time": 1598801896490,
-        "edit-email": "tangshuling@nudt.edu.cn",
         "edit-time": 1598801902227,
         "string": "BANANA",
         "uid": "O-9dlWNzG"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1598746559669,
     "title": "August 30th, 2020",
     "uid": "08-30-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1598832735873,
     "title": "August 31st, 2020",
     "uid": "08-31-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1598919737824,
     "title": "September 1st, 2020",
     "uid": "09-01-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1599006091271,
     "title": "September 2nd, 2020",
     "uid": "09-02-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1599092507832,
     "title": "September 3rd, 2020",
     "uid": "09-03-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "cdimconsulting@gmail.com",
+        ":create/user": {
+          ":user/uid": "Kzmn52AXP1OhG1lz9CsjqLDBeDc2"
+        },
+        ":edit/user": {
+          ":user/uid": "Kzmn52AXP1OhG1lz9CsjqLDBeDc2"
+        },
         "create-time": 1599207263712,
-        "edit-email": "cdimconsulting@gmail.com",
         "edit-time": 1599207406437,
         "string": "Ahh, that's cool. I can now sh",
         "uid": "zQZSlDclD"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1599178939372,
     "title": "September 4th, 2020",
     "uid": "09-04-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1599266158653,
     "title": "September 5th, 2020",
     "uid": "09-05-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1599351779977,
     "title": "September 6th, 2020",
     "uid": "09-06-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1599438152711,
     "title": "September 7th, 2020",
     "uid": "09-07-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1599524554627,
     "title": "September 8th, 2020",
     "uid": "09-08-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1599610938598,
     "title": "September 9th, 2020",
     "uid": "09-09-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1599697332410,
     "title": "September 10th, 2020",
     "uid": "09-10-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1599783756103,
     "title": "September 11th, 2020",
     "uid": "09-11-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1599870126133,
     "title": "September 12th, 2020",
     "uid": "09-12-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1599956616576,
     "title": "September 13th, 2020",
     "uid": "09-13-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
         "create-time": 1600257323096,
@@ -2153,144 +2778,190 @@
         "uid": "HHRDUTuIC"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1600042976023,
     "title": "September 14th, 2020",
     "uid": "09-14-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1600129374494,
     "title": "September 15th, 2020",
     "uid": "09-15-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1600215749104,
     "title": "September 16th, 2020",
     "uid": "09-16-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1600302193813,
     "title": "September 17th, 2020",
     "uid": "09-17-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1600388601668,
     "title": "September 18th, 2020",
     "uid": "09-18-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1600474993583,
     "title": "September 19th, 2020",
     "uid": "09-19-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1600561448067,
     "title": "September 20th, 2020",
     "uid": "09-20-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1600647830121,
     "title": "September 21st, 2020",
     "uid": "09-21-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1600734198805,
     "title": "September 22nd, 2020",
     "uid": "09-22-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1600820613064,
     "title": "September 23rd, 2020",
     "uid": "09-23-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1600907040035,
     "title": "September 24th, 2020",
     "uid": "09-24-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1600993450185,
     "title": "September 25th, 2020",
     "uid": "09-25-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1601079814781,
     "title": "September 26th, 2020",
     "uid": "09-26-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1601166294678,
     "title": "September 27th, 2020",
     "uid": "09-27-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1601252669486,
     "title": "September 28th, 2020",
     "uid": "09-28-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1601339050248,
     "title": "September 29th, 2020",
     "uid": "09-29-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1601425449377,
     "title": "September 30th, 2020",
     "uid": "09-30-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1601511910922,
     "title": "October 1st, 2020",
     "uid": "10-01-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1601598222482,
     "title": "October 2nd, 2020",
     "uid": "10-02-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1601684691671,
     "title": "October 3rd, 2020",
     "uid": "10-03-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1601771154277,
     "title": "October 4th, 2020",
     "uid": "10-04-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1601857532700,
     "title": "October 5th, 2020",
     "uid": "10-05-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1601943909777,
     "title": "October 6th, 2020",
     "uid": "10-06-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
         "create-time": 1602071387867,
@@ -2299,40 +2970,52 @@
         "uid": "svRtHuPeJ"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1602030315642,
     "title": "October 7th, 2020",
     "uid": "10-07-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1602116497423,
     "title": "October 8th, 2020",
     "uid": "10-08-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1602206659690,
     "title": "October 9th, 2020",
     "uid": "10-09-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "madisvs@gmail.com",
+        ":create/user": {
+          ":user/uid": "CGJEUyrzRcQZRTgieVP5NjESCZ22"
+        },
+        ":edit/user": {
+          ":user/uid": "CGJEUyrzRcQZRTgieVP5NjESCZ22"
+        },
         "create-time": 1602297162846,
-        "edit-email": "madisvs@gmail.com",
         "edit-time": 1602297183518,
         "string": "This is madiks test.",
         "uid": "-oGdShS-p"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1602289555895,
     "title": "October 10th, 2020",
     "uid": "10-10-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
         ":block/refs": [
@@ -2351,66 +3034,86 @@
         "uid": "NbuFGwsoN"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1602376015011,
     "title": "October 11th, 2020",
     "uid": "10-11-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1602462396117,
     "title": "October 12th, 2020",
     "uid": "10-12-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1602548802113,
     "title": "October 13th, 2020",
     "uid": "10-13-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1602635201239,
     "title": "October 14th, 2020",
     "uid": "10-14-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1602721614258,
     "title": "October 15th, 2020",
     "uid": "10-15-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1602808045513,
     "title": "October 16th, 2020",
     "uid": "10-16-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1602894417879,
     "title": "October 17th, 2020",
     "uid": "10-17-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1602980885995,
     "title": "October 18th, 2020",
     "uid": "10-18-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1603067273595,
     "title": "October 19th, 2020",
     "uid": "10-19-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1603153660119,
     "title": "October 20th, 2020",
     "uid": "10-20-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
         "create-time": 1603245436845,
@@ -2419,31 +3122,39 @@
         "uid": "UoxOpOZ1q"
       },
       {
+        ":edit/user": {
+          ":user/uid": "EotdjiN8JvRAAVylRHVOcEMvUoE3"
+        },
         "create-time": 1603245454324,
-        "edit-email": "axton.liu@outlook.com",
         "edit-time": 1603332029811,
         "string": "\u6c49\u5b57\u6d4b\u8bd5",
         "uid": "xwuKt_zEN"
       }
     ],
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1603240066146,
     "title": "October 21st, 2020",
     "uid": "10-21-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1603326491758,
     "title": "October 22nd, 2020",
     "uid": "10-22-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1603412905198,
     "title": "October 23rd, 2020",
     "uid": "10-23-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "zGOOdhpwYIgvc3T654lCPkYAcUV2"
+    },
     "children": [
       {
         "create-time": 1603555733118,
@@ -2452,18 +3163,22 @@
         "uid": "vH-hORi1V"
       }
     ],
-    "edit-email": "hezhizhen.yi@gmail.com",
     "edit-time": 1603473985519,
     "title": "October 24th, 2020",
     "uid": "10-24-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1603585771596,
     "title": "October 25th, 2020",
     "uid": "10-25-2020"
   },
   {
+    ":edit/user": {
+      ":user/uid": "kLekPynczuPph6b2Hv4NWzSOmGL2"
+    },
     "children": [
       {
         ":block/refs": [
@@ -2471,9 +3186,13 @@
             ":block/uid": "gT7Igr2O-"
           }
         ],
-        "create-email": "login@sellaro.co",
+        ":create/user": {
+          ":user/uid": "lkBi86LyteWJar7cwuma8Gd7o7A3"
+        },
+        ":edit/user": {
+          ":user/uid": "lkBi86LyteWJar7cwuma8Gd7o7A3"
+        },
         "create-time": 1603740651326,
-        "edit-email": "login@sellaro.co",
         "edit-time": 1603740658920,
         "refs": [
           {
@@ -2484,130 +3203,181 @@
         "uid": "nqMgoKRF-"
       }
     ],
-    "edit-email": "elichaiml@gmail.com",
     "edit-time": 1603671228796,
     "title": "October 26th, 2020",
     "uid": "10-26-2020"
   },
   {
+    ":create/user": {
+      ":user/uid": "lkBi86LyteWJar7cwuma8Gd7o7A3"
+    },
+    ":edit/user": {
+      ":user/uid": "lkBi86LyteWJar7cwuma8Gd7o7A3"
+    },
     "children": [
       {
-        "create-email": "login@sellaro.co",
+        ":create/user": {
+          ":user/uid": "lkBi86LyteWJar7cwuma8Gd7o7A3"
+        },
+        ":edit/user": {
+          ":user/uid": "lkBi86LyteWJar7cwuma8Gd7o7A3"
+        },
         "create-time": 1603740660585,
-        "edit-email": "login@sellaro.co",
         "edit-time": 1603740669347,
         "string": "This is another page created as a result of a test",
         "uid": "PA-O49_RJ"
       }
     ],
-    "create-email": "login@sellaro.co",
     "create-time": 1603740658922,
-    "edit-email": "login@sellaro.co",
     "edit-time": 1603740658926,
     "title": "Another Page",
     "uid": "gT7Igr2O-"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1603758545281,
     "title": "October 27th, 2020",
     "uid": "10-27-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1603844960438,
     "title": "October 28th, 2020",
     "uid": "10-28-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1603931402263,
     "title": "October 29th, 2020",
     "uid": "10-29-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1604017101855,
     "title": "October 30th, 2020",
     "uid": "10-30-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1604103405413,
     "title": "October 31st, 2020",
     "uid": "10-31-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1604189935046,
     "title": "November 1st, 2020",
     "uid": "11-01-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1604276262752,
     "title": "November 2nd, 2020",
     "uid": "11-02-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1604362681579,
     "title": "November 3rd, 2020",
     "uid": "11-03-2020"
   },
   {
-    "edit-email": "oao2005+1@gmail.com",
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "edit-time": 1604449100794,
     "title": "November 4th, 2020",
     "uid": "11-04-2020"
   },
   {
-    "edit-email": "joel.falconer@gmail.com",
+    ":edit/user": {
+      ":user/uid": "gwIjXnA45rd3iDoPxf7RzBlY9Iy1"
+    },
     "edit-time": 1604498406616,
     "title": "November 5th, 2020",
     "uid": "11-05-2020"
   },
   {
-    "edit-email": "joel.falconer@gmail.com",
+    ":edit/user": {
+      ":user/uid": "gwIjXnA45rd3iDoPxf7RzBlY9Iy1"
+    },
     "edit-time": 1604584800296,
     "title": "November 6th, 2020",
     "uid": "11-06-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1604708374904,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1604708374904,
     "title": "November 7th, 2020",
     "uid": "11-07-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1604794832616,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1604794832617,
     "title": "November 8th, 2020",
     "uid": "11-08-2020"
   },
   {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1604947773661,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1604947773661,
         "string": "",
         "uid": "5Unkzf6Nz"
       }
     ],
-    "create-email": "oao2005+1@gmail.com",
     "create-time": 1604881212098,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1604881212099,
     "title": "November 9th, 2020",
     "uid": "11-09-2020"
   },
   {
+    ":create/user": {
+      ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+    },
+    ":edit/user": {
+      ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+    },
     "children": [
       {
         ":block/refs": [
@@ -2615,9 +3385,13 @@
             ":block/uid": "k1HGTLtB3"
           }
         ],
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1604947789839,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1604947983385,
         "refs": [
           {
@@ -2628,232 +3402,344 @@
         "uid": "m6RjEcIw3"
       },
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1604947789839,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1604947789851,
         "string": "select create contract-> spot/forward",
         "uid": "Fi5bHTzgU"
       },
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1604947789839,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1604947789851,
         "string": "choose either tenor or valuedate",
         "uid": "WuB0JOjmE"
       },
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1604947789839,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1604947789851,
         "string": "the currency I am buying (JPM Sell) should be selected and the amount I want to buy filled in",
         "uid": "eGKNooXsV"
       },
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1604947789839,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1604947789851,
         "string": "Make sure to select the JPM BUY as USD (that is what currency I am using to buy the foreign currency)",
         "uid": "G-CT9Rc_9"
       },
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1604947789839,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1604947789851,
         "string": "then select the Price $1 to get rate",
         "uid": "_J5DS9uL1"
       },
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1604947789839,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1604947789851,
         "string": "Once a price comes back select \"Accept\" button",
         "uid": "F1AEu0afS"
       },
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1604947789839,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1604947789851,
         "string": "In settlements go to the From Tab and select my USD CHase Account",
         "uid": "tnJwO8IYe"
       },
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1604947789839,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1604947789851,
         "string": "In Settlements go to the TO tab",
         "uid": "rILLyDoHs"
       },
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1604947789839,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1604947789851,
         "string": "in there add all benis and the amount",
         "uid": "3DXkHwcV-"
       },
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1604947789839,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1604947789851,
         "string": "After all setup go to FX Inbox",
         "uid": "e_AstVs-z"
       },
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1604947789839,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1604947789852,
         "string": "Select thje \"Payments/Settlements Pending Release\"",
         "uid": "jeCMFA4dN"
       },
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1604947789839,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1604947789852,
         "string": "and release them. ",
         "uid": "t_uNCQ_-7"
       },
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1604947789839,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1604947789852,
         "string": "All done!",
         "uid": "JVY_HTGf_"
       }
     ],
-    "create-email": "gus+roam@xogito.com",
     "create-time": 1604947787210,
-    "edit-email": "gus+roam@xogito.com",
     "edit-time": 1604947973993,
     "title": "jpmorgan payroll procedure",
     "uid": "ktFQPXir6"
   },
   {
-    "create-email": "gus+roam@xogito.com",
+    ":create/user": {
+      ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+    },
+    ":edit/user": {
+      ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+    },
     "create-time": 1604947983386,
-    "edit-email": "gus+roam@xogito.com",
     "edit-time": 1604947983387,
     "title": "payroll",
     "uid": "k1HGTLtB3"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1604967618978,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1604967618978,
     "title": "November 10th, 2020",
     "uid": "11-10-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1605053692034,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1605053692034,
     "title": "November 11th, 2020",
     "uid": "11-11-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1605140296352,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1605140296353,
     "title": "November 12th, 2020",
     "uid": "11-12-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1605226675083,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1605226675085,
     "title": "November 13th, 2020",
     "uid": "11-13-2020"
   },
   {
+    ":create/user": {
+      ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+    },
+    ":edit/user": {
+      ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+    },
     "children": [
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1605290018289,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1605290019330,
         "string": "http://www.rutlandmanor.com/diet.html",
         "uid": "zCy608pCG"
       },
       {
-        "create-email": "gus+roam@xogito.com",
+        ":create/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
+        ":edit/user": {
+          ":user/uid": "DGFkVh7ez7Sb7HTkivJ6DgMlnKy1"
+        },
         "create-time": 1605290025540,
-        "edit-email": "gus+roam@xogito.com",
         "edit-time": 1605290026642,
         "string": "http://www.rutlandmanor.com/menu.html",
         "uid": "Mn4h5u7g5"
       }
     ],
-    "create-email": "gus+roam@xogito.com",
     "create-time": 1605290006552,
-    "edit-email": "gus+roam@xogito.com",
     "edit-time": 1605290006553,
     "title": "dog-info",
     "uid": "lf8qgAS0g"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1605313099381,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1605313099382,
     "title": "November 14th, 2020",
     "uid": "11-14-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1605399583134,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1605399583134,
     "title": "November 15th, 2020",
     "uid": "11-15-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1605485972554,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1605485972556,
     "title": "November 16th, 2020",
     "uid": "11-16-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1605572335404,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1605572335404,
     "title": "November 17th, 2020",
     "uid": "11-17-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1605662086886,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1605662086887,
     "title": "November 18th, 2020",
     "uid": "11-18-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1605745162100,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1605745162101,
     "title": "November 19th, 2020",
     "uid": "11-19-2020"
   },
   {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "7uWjByXFYlZTn7ANfP1ZsnfgKOl1"
+    },
     "children": [
       {
         ":block/refs": [
@@ -2861,19 +3747,27 @@
             ":block/uid": "R7tzxvDOR"
           }
         ],
+        ":create/user": {
+          ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+        },
+        ":edit/user": {
+          ":user/uid": "7uWjByXFYlZTn7ANfP1ZsnfgKOl1"
+        },
         "children": [
           {
-            "create-email": "getsteady@gmail.com",
+            ":create/user": {
+              ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+            },
+            ":edit/user": {
+              ":user/uid": "7uWjByXFYlZTn7ANfP1ZsnfgKOl1"
+            },
             "create-time": 1605882567855,
-            "edit-email": "a.bartleycatt@gmail.com",
             "edit-time": 1605918485869,
             "string": "Hi",
             "uid": "ysSb3Wc4I"
           }
         ],
-        "create-email": "getsteady@gmail.com",
         "create-time": 1605882567855,
-        "edit-email": "a.bartleycatt@gmail.com",
         "edit-time": 1605918485869,
         "refs": [
           {
@@ -2884,30 +3778,42 @@
         "uid": "5Wyn-6O-M"
       }
     ],
-    "create-email": "oao2005+1@gmail.com",
     "create-time": 1605831587657,
-    "edit-email": "a.bartleycatt@gmail.com",
     "edit-time": 1605918485869,
     "title": "November 20th, 2020",
     "uid": "11-20-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1605918001576,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1605918001577,
     "title": "November 21st, 2020",
     "uid": "11-21-2020"
   },
   {
-    "create-email": "a.bartleycatt@gmail.com",
+    ":create/user": {
+      ":user/uid": "7uWjByXFYlZTn7ANfP1ZsnfgKOl1"
+    },
+    ":edit/user": {
+      ":user/uid": "7uWjByXFYlZTn7ANfP1ZsnfgKOl1"
+    },
     "create-time": 1605918485875,
-    "edit-email": "a.bartleycatt@gmail.com",
     "edit-time": 1605918485878,
     "title": "Quick Capture",
     "uid": "R7tzxvDOR"
   },
   {
+    ":create/user": {
+      ":user/uid": "WCHL0V4JOQYjR1C47whxv9Ztl5l2"
+    },
+    ":edit/user": {
+      ":user/uid": "WCHL0V4JOQYjR1C47whxv9Ztl5l2"
+    },
     "children": [
       {
         "create-time": 1606061723799,
@@ -2938,67 +3844,99 @@
         "uid": "x0WS7LHMJ"
       }
     ],
-    "create-email": "gustav@whil.se",
     "create-time": 1606003962497,
-    "edit-email": "gustav@whil.se",
     "edit-time": 1606003962499,
     "title": "November 22nd, 2020",
     "uid": "11-22-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1606090868397,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1606090868398,
     "title": "November 23rd, 2020",
     "uid": "11-23-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1606177240314,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1606177240314,
     "title": "November 24th, 2020",
     "uid": "11-24-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1606263637429,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1606263637431,
     "title": "November 25th, 2020",
     "uid": "11-25-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1606350032207,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1606350032207,
     "title": "November 26th, 2020",
     "uid": "11-26-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1606436496543,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1606436496546,
     "title": "November 27th, 2020",
     "uid": "11-27-2020"
   },
   {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "steven.chamales@gmail.com",
+        ":create/user": {
+          ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+        },
+        ":edit/user": {
+          ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+        },
         "create-time": 1606574935270,
-        "edit-email": "steven.chamales@gmail.com",
         "edit-time": 1606575004576,
         "string": "This is a note",
         "uid": "ToziPsJ76"
       },
       {
-        "create-email": "steven.chamales@gmail.com",
+        ":create/user": {
+          ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+        },
+        ":edit/user": {
+          ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+        },
         "create-time": 1606575004572,
-        "edit-email": "steven.chamales@gmail.com",
         "edit-time": 1606575110090,
         "string": "This is another note.  ",
         "uid": "Xb7XvNC4-"
@@ -3009,9 +3947,13 @@
             ":block/uid": "11-09-2020"
           }
         ],
-        "create-email": "steven.chamales@gmail.com",
+        ":create/user": {
+          ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+        },
+        ":edit/user": {
+          ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+        },
         "create-time": 1606575110154,
-        "edit-email": "steven.chamales@gmail.com",
         "edit-time": 1606575115976,
         "refs": [
           {
@@ -3022,30 +3964,42 @@
         "uid": "wEe1MDmZT"
       },
       {
-        "create-email": "steven.chamales@gmail.com",
+        ":create/user": {
+          ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+        },
+        ":edit/user": {
+          ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+        },
         "create-time": 1606575117490,
-        "edit-email": "steven.chamales@gmail.com",
         "edit-time": 1606575117490,
         "string": "",
         "uid": "WC2G2jUg0"
       },
       {
-        "create-email": "steven.chamales@gmail.com",
+        ":create/user": {
+          ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+        },
+        ":edit/user": {
+          ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+        },
         "create-time": 1606575116791,
-        "edit-email": "steven.chamales@gmail.com",
         "edit-time": 1606575116791,
         "string": "",
         "uid": "8I81R3I3k"
       }
     ],
-    "create-email": "oao2005+1@gmail.com",
     "create-time": 1606522892238,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1606522892238,
     "title": "November 28th, 2020",
     "uid": "11-28-2020"
   },
   {
+    ":create/user": {
+      ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+    },
+    ":edit/user": {
+      ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+    },
     "children": [
       {
         ":block/refs": [
@@ -3053,27 +4007,39 @@
             ":block/uid": "11-28-2020"
           }
         ],
+        ":create/user": {
+          ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+        },
+        ":edit/user": {
+          ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+        },
         "children": [
           {
-            "create-email": "steven.chamales@gmail.com",
+            ":create/user": {
+              ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+            },
+            ":edit/user": {
+              ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+            },
             "create-time": 1606575403099,
-            "edit-email": "oao2005@gmail.com",
             "edit-time": 1608292055548,
             "string": "This is a thing I started",
             "uid": "h-6M7tNpi"
           },
           {
-            "create-email": "steven.chamales@gmail.com",
+            ":create/user": {
+              ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+            },
+            ":edit/user": {
+              ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+            },
             "create-time": 1606575306921,
-            "edit-email": "steven.chamales@gmail.com",
             "edit-time": 1606575403103,
             "string": "Let's write about some stuff. ",
             "uid": "7sXpyw-63"
           }
         ],
-        "create-email": "steven.chamales@gmail.com",
         "create-time": 1606575361643,
-        "edit-email": "steven.chamales@gmail.com",
         "edit-time": 1606575397217,
         "refs": [
           {
@@ -3084,476 +4050,704 @@
         "uid": "efqvmf6nw"
       },
       {
-        "create-email": "steven.chamales@gmail.com",
+        ":create/user": {
+          ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+        },
+        ":edit/user": {
+          ":user/uid": "zcDdJ0w1eMfcxzm9NmzK1yISa753"
+        },
         "create-time": 1606575413041,
-        "edit-email": "steven.chamales@gmail.com",
         "edit-time": 1606575413041,
         "string": "",
         "uid": "DMurWq-sb"
       }
     ],
-    "create-email": "steven.chamales@gmail.com",
     "create-time": 1606575302065,
-    "edit-email": "steven.chamales@gmail.com",
     "edit-time": 1606575302066,
     "title": "A new topic",
     "uid": "N61YeXws0"
   },
   {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "mathew@thehealthhorizon.com",
+        ":create/user": {
+          ":user/uid": "VperbMsuxvNELKyjnbAMzgdgbKC3"
+        },
+        ":edit/user": {
+          ":user/uid": "VperbMsuxvNELKyjnbAMzgdgbKC3"
+        },
         "create-time": 1606661396007,
-        "edit-email": "mathew@thehealthhorizon.com",
         "edit-time": 1606661410300,
         "string": "Kosovo",
         "uid": "BV8PoMBmk"
       }
     ],
-    "create-email": "oao2005+1@gmail.com",
     "create-time": 1606613134948,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1606613134949,
     "title": "November 29th, 2020",
     "uid": "11-29-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1606695767289,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1606695767289,
     "title": "November 30th, 2020",
     "uid": "11-30-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1606786029536,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1606786029536,
     "title": "December 1st, 2020",
     "uid": "12-01-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1606868557232,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1606868557233,
     "title": "December 2nd, 2020",
     "uid": "12-02-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1606954955344,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1606954955344,
     "title": "December 3rd, 2020",
     "uid": "12-03-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1607045286057,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1607045286059,
     "title": "December 4th, 2020",
     "uid": "12-04-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1607127792195,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1607127792196,
     "title": "December 5th, 2020",
     "uid": "12-05-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1607214270790,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1607214270790,
     "title": "December 6th, 2020",
     "uid": "12-06-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1607300655788,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1607300655789,
     "title": "December 7th, 2020",
     "uid": "12-07-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1607387021186,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1607387021187,
     "title": "December 8th, 2020",
     "uid": "12-08-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1607473443793,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1607473443793,
     "title": "December 9th, 2020",
     "uid": "12-09-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1607559857735,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1607559857736,
     "title": "December 10th, 2020",
     "uid": "12-10-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1607646270940,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1607646270941,
     "title": "December 11th, 2020",
     "uid": "12-11-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1607732685652,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1607732685653,
     "title": "December 12th, 2020",
     "uid": "12-12-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1607819152300,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1607819152305,
     "title": "December 13th, 2020",
     "uid": "12-13-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1607905517150,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1607905517151,
     "title": "December 14th, 2020",
     "uid": "12-14-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1607991866693,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1607991866693,
     "title": "December 15th, 2020",
     "uid": "12-15-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1608078287211,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1608078287214,
     "title": "December 16th, 2020",
     "uid": "12-16-2020"
   },
   {
-    "create-email": "kbonzel@me.com",
+    ":create/user": {
+      ":user/uid": "u9glfriPehWWvK1nYdb0Gop68B03"
+    },
+    ":edit/user": {
+      ":user/uid": "u9glfriPehWWvK1nYdb0Gop68B03"
+    },
     "create-time": 1608159258392,
-    "edit-email": "kbonzel@me.com",
     "edit-time": 1608159258393,
     "title": "December 17th, 2020",
     "uid": "12-17-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1608251170556,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1608251170557,
     "title": "December 18th, 2020",
     "uid": "12-18-2020"
   },
   {
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
     "children": [
       {
-        "create-email": "oao2005@gmail.com",
+        ":create/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
+        ":edit/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
         "create-time": 1608291580551,
-        "edit-email": "oao2005@gmail.com",
         "edit-time": 1608291596637,
         "string": "Reproduction of https://github.com/MatthieuBizien/roam-to-git/issues/79",
         "uid": "Gs1v97WXc"
       },
       {
-        "create-email": "oao2005@gmail.com",
+        ":create/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
+        ":edit/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
         "create-time": 1608291596628,
-        "edit-email": "oao2005@gmail.com",
         "edit-time": 1608291596628,
         "string": "",
         "uid": "xIH2VBRB4"
       }
     ],
-    "create-email": "oao2005@gmail.com",
     "create-time": 1608291579299,
-    "edit-email": "oao2005@gmail.com",
     "edit-time": 1608291579299,
     "title": "Like optical illusions, intellectual illusions can trick us into thinking something that isn't actually there or true. As with optical illusions, even when we know they are there we still have to actively override our default perception to get to the truth behind the illusion",
     "uid": "-J6HZkWg2"
   },
   {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "getsteady@gmail.com",
+        ":create/user": {
+          ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+        },
+        ":edit/user": {
+          ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+        },
         "create-time": 1608445602533,
-        "edit-email": "getsteady@gmail.com",
         "edit-time": 1608445606122,
         "string": "hi",
         "uid": "B6Iu-bKOd"
       },
       {
-        "create-email": "getsteady@gmail.com",
+        ":create/user": {
+          ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+        },
+        ":edit/user": {
+          ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+        },
         "create-time": 1608445606430,
-        "edit-email": "getsteady@gmail.com",
         "edit-time": 1608445606430,
         "string": "",
         "uid": "aznrYZY4l"
       }
     ],
-    "create-email": "oao2005+1@gmail.com",
     "create-time": 1608342301422,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1608342301423,
     "title": "December 19th, 2020",
     "uid": "12-19-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1608423981124,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1608423981127,
     "title": "December 20th, 2020",
     "uid": "12-20-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1608515446594,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1608515446595,
     "title": "December 21st, 2020",
     "uid": "12-21-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1608597000055,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1608597000055,
     "title": "December 22nd, 2020",
     "uid": "12-22-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1608688629932,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1608688629934,
     "title": "December 23rd, 2020",
     "uid": "12-23-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1608770087872,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1608770087873,
     "title": "December 24th, 2020",
     "uid": "12-24-2020"
   },
   {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "liquidtorque3153@gmail.com",
+        ":create/user": {
+          ":user/uid": "QpdFeJztOtQihSKhsNXVsRjkFSh1"
+        },
+        ":edit/user": {
+          ":user/uid": "QpdFeJztOtQihSKhsNXVsRjkFSh1"
+        },
         "create-time": 1608956296529,
-        "edit-email": "liquidtorque3153@gmail.com",
         "edit-time": 1608956298398,
         "string": "jkjkljkl",
         "uid": "JnmHbiW2t"
       },
       {
-        "create-email": "liquidtorque3153@gmail.com",
+        ":create/user": {
+          ":user/uid": "QpdFeJztOtQihSKhsNXVsRjkFSh1"
+        },
+        ":edit/user": {
+          ":user/uid": "QpdFeJztOtQihSKhsNXVsRjkFSh1"
+        },
         "create-time": 1608956298996,
-        "edit-email": "liquidtorque3153@gmail.com",
         "edit-time": 1608956298996,
         "string": "",
         "uid": "JfNtWiOMt"
       }
     ],
-    "create-email": "oao2005+1@gmail.com",
     "create-time": 1608856329101,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1608856329102,
     "title": "December 25th, 2020",
     "uid": "12-25-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1608942645727,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1608942645728,
     "title": "December 26th, 2020",
     "uid": "12-26-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1609029158330,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1609029158332,
     "title": "December 27th, 2020",
     "uid": "12-27-2020"
   },
   {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "liujinbao@ruc.edu.cn",
+        ":create/user": {
+          ":user/uid": "wRVVfYtyliQ7qNtPsuHdWzcCJU22"
+        },
+        ":edit/user": {
+          ":user/uid": "wRVVfYtyliQ7qNtPsuHdWzcCJU22"
+        },
         "create-time": 1609121330068,
-        "edit-email": "liujinbao@ruc.edu.cn",
         "edit-time": 1609121333569,
         "string": "test test",
         "uid": "L0GTPs1Ns"
       }
     ],
-    "create-email": "oao2005+1@gmail.com",
     "create-time": 1609115580331,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1609115580332,
     "title": "December 28th, 2020",
     "uid": "12-28-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1609202037384,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1609202037387,
     "title": "December 29th, 2020",
     "uid": "12-29-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1609288521151,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1609288521152,
     "title": "December 30th, 2020",
     "uid": "12-30-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1609375049913,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1609375049914,
     "title": "December 31st, 2020",
     "uid": "12-31-2020"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1609461418983,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1609461418985,
     "title": "January 1st, 2021",
     "uid": "01-01-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1609547748466,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1609547748466,
     "title": "January 2nd, 2021",
     "uid": "01-02-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1609634251734,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1609634251735,
     "title": "January 3rd, 2021",
     "uid": "01-03-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1609730851150,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1609730851152,
     "title": "January 4th, 2021",
     "uid": "01-04-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1609807136903,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1609807136905,
     "title": "January 5th, 2021",
     "uid": "01-05-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1609893539512,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1609893539513,
     "title": "January 6th, 2021",
     "uid": "01-06-2021"
   },
   {
+    ":create/user": {
+      ":user/uid": "ETjSbWnOZ9VGKmpCYnAb5o9jm7h2"
+    },
+    ":edit/user": {
+      ":user/uid": "ETjSbWnOZ9VGKmpCYnAb5o9jm7h2"
+    },
     "children": [
       {
-        "create-email": "qgxrb1065548@mail.wcccd.edu",
+        ":create/user": {
+          ":user/uid": "ETjSbWnOZ9VGKmpCYnAb5o9jm7h2"
+        },
+        ":edit/user": {
+          ":user/uid": "ETjSbWnOZ9VGKmpCYnAb5o9jm7h2"
+        },
         "create-time": 1609985116542,
-        "edit-email": "qgxrb1065548@mail.wcccd.edu",
         "edit-time": 1609985122322,
         "string": "test",
         "uid": "dQcrOlUx2"
       },
       {
-        "create-email": "qgxrb1065548@mail.wcccd.edu",
+        ":create/user": {
+          ":user/uid": "ETjSbWnOZ9VGKmpCYnAb5o9jm7h2"
+        },
+        ":edit/user": {
+          ":user/uid": "ETjSbWnOZ9VGKmpCYnAb5o9jm7h2"
+        },
         "create-time": 1609985123548,
-        "edit-email": "qgxrb1065548@mail.wcccd.edu",
         "edit-time": 1609985157077,
         "string": "what a wonderful day!\ud83e\udd70",
         "uid": "bQ1m1mTJw"
       }
     ],
-    "create-email": "qgxrb1065548@mail.wcccd.edu",
     "create-time": 1609985111161,
-    "edit-email": "qgxrb1065548@mail.wcccd.edu",
     "edit-time": 1609985111162,
     "title": "January 7th, 2021",
     "uid": "01-07-2021"
   },
   {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "andressainz@gmail.com",
+        ":create/user": {
+          ":user/uid": "dnf1f6BRgbUPwf4khJyTljTQHBs1"
+        },
+        ":edit/user": {
+          ":user/uid": "dnf1f6BRgbUPwf4khJyTljTQHBs1"
+        },
         "create-time": 1610106173829,
-        "edit-email": "andressainz@gmail.com",
         "edit-time": 1610106184530,
         "string": "Testing from Amsterdam!",
         "uid": "HVPh0gjFE"
       }
     ],
-    "create-email": "oao2005+1@gmail.com",
     "create-time": 1610066497864,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1610066497867,
     "title": "January 8th, 2021",
     "uid": "01-08-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1610152909185,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1610152909187,
     "title": "January 9th, 2021",
     "uid": "01-09-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1610239432063,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1610239432065,
     "title": "January 10th, 2021",
     "uid": "01-10-2021"
   },
   {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
         ":block/refs": [
@@ -3572,24 +4766,28 @@
         "uid": "uxNMfx85k"
       },
       {
+        ":edit/user": {
+          ":user/uid": "9YaEK4uASeVL3CYwaS4LURoRH4B2"
+        },
         "create-time": 1610327380667,
-        "edit-email": "wxhdp@163.com",
         "edit-time": 1610368054045,
         "string": "\u4fee\u6539",
         "uid": "urgkZ2oBz"
       },
       {
-        "create-email": "wxhdp@163.com",
+        ":create/user": {
+          ":user/uid": "9YaEK4uASeVL3CYwaS4LURoRH4B2"
+        },
+        ":edit/user": {
+          ":user/uid": "9YaEK4uASeVL3CYwaS4LURoRH4B2"
+        },
         "create-time": 1610368054034,
-        "edit-email": "wxhdp@163.com",
         "edit-time": 1610368054034,
         "string": "",
         "uid": "kx8n_X-DS"
       }
     ],
-    "create-email": "oao2005+1@gmail.com",
     "create-time": 1610325778423,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1610325778424,
     "title": "January 11th, 2021",
     "uid": "01-11-2021"
@@ -3601,141 +4799,191 @@
     "uid": "1kPs9aTDE"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1610412346746,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1610412346746,
     "title": "January 12th, 2021",
     "uid": "01-12-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1610499137572,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1610499137577,
     "title": "January 13th, 2021",
     "uid": "01-13-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1610586023044,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1610586023050,
     "title": "January 14th, 2021",
     "uid": "01-14-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1610672158000,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1610672158001,
     "title": "January 15th, 2021",
     "uid": "01-15-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1610758717223,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1610758717223,
     "title": "January 16th, 2021",
     "uid": "01-16-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1610855786226,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1610855786227,
     "title": "January 17th, 2021",
     "uid": "01-17-2021"
   },
   {
-    "create-email": "1064404481@qq.com",
     "create-time": 1610908392092,
-    "edit-email": "1064404481@qq.com",
     "edit-time": 1610908392093,
     "title": "January 18th, 2021",
     "uid": "01-18-2021"
   },
   {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "mail@lezuber.com",
         "create-time": 1611094668013,
-        "edit-email": "mail@lezuber.com",
         "edit-time": 1611094669192,
         "string": "jnnnl",
         "uid": "aI6U9t8Yt"
       },
       {
-        "create-email": "mail@lezuber.com",
         "create-time": 1611094669176,
-        "edit-email": "mail@lezuber.com",
         "edit-time": 1611094669176,
         "string": "",
         "uid": "MHz8VRsyB"
       }
     ],
-    "create-email": "oao2005+1@gmail.com",
     "create-time": 1611017906663,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1611017906665,
     "title": "January 19th, 2021",
     "uid": "01-19-2021"
   },
   {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "children": [
       {
-        "create-email": "623193096@qq.com",
+        ":create/user": {
+          ":user/uid": "ZmjlrYtbZLdH6IlL14UqwFUs1kH2"
+        },
+        ":edit/user": {
+          ":user/uid": "ZmjlrYtbZLdH6IlL14UqwFUs1kH2"
+        },
         "create-time": 1611146203159,
-        "edit-email": "623193096@qq.com",
         "edit-time": 1611146204795,
         "string": "[[]]",
         "uid": "vkD8BZXgE"
       }
     ],
-    "create-email": "oao2005+1@gmail.com",
     "create-time": 1611111131619,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1611111131620,
     "title": "January 20th, 2021",
     "uid": "01-20-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1611190766224,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1611190766225,
     "title": "January 21st, 2021",
     "uid": "01-21-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1611277086209,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1611277086209,
     "title": "January 22nd, 2021",
     "uid": "01-22-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1611363478855,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1611363478855,
     "title": "January 23rd, 2021",
     "uid": "01-23-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1611456630912,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1611456630913,
     "title": "January 24th, 2021",
     "uid": "01-24-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1611536266327,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1611536266327,
     "title": "January 25th, 2021",
     "uid": "01-25-2021"
@@ -3743,41 +4991,49 @@
   {
     "children": [
       {
-        "create-email": "zhilu@std.uestc.edu.cn",
         "create-time": 1611601410875,
-        "edit-email": "zhilu@std.uestc.edu.cn",
         "edit-time": 1611601410875,
         "string": "",
         "uid": "RiI6AKstj"
       }
     ],
-    "create-email": "zhilu@std.uestc.edu.cn",
     "create-time": 1611601396936,
-    "edit-email": "zhilu@std.uestc.edu.cn",
     "edit-time": 1611601396936,
     "title": "January 26th, 2021",
     "uid": "01-26-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1611707191959,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1611707191959,
     "title": "January 27th, 2021",
     "uid": "01-27-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1611793702658,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1611793702659,
     "title": "January 28th, 2021",
     "uid": "01-28-2021"
   },
   {
-    "create-email": "oao2005+1@gmail.com",
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
     "create-time": 1611879996818,
-    "edit-email": "oao2005+1@gmail.com",
     "edit-time": 1611879996820,
     "title": "January 29th, 2021",
     "uid": "01-29-2021"
