@@ -5269,8 +5269,49 @@
     ":edit/user": {
       ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
     },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "R7tzxvDOR"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "0KBRMy0RkEW9ix3o0p4tlUI1Guz2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "0KBRMy0RkEW9ix3o0p4tlUI1Guz2"
+            },
+            "create-time": 1613735622478,
+            "edit-time": 1613735703211,
+            "string": "zongqing lin",
+            "uid": "kXwnvgQcN"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "0KBRMy0RkEW9ix3o0p4tlUI1Guz2"
+            },
+            "create-time": 1613735652241,
+            "edit-time": 1613735703211,
+            "string": "1911zongqinglin",
+            "uid": "fidyCeJwl"
+          }
+        ],
+        "create-time": 1613735622478,
+        "edit-time": 1613735703211,
+        "refs": [
+          {
+            "uid": "R7tzxvDOR"
+          }
+        ],
+        "string": "#[[Quick Capture]]",
+        "uid": "yGua1wgnj"
+      }
+    ],
     "create-time": 1613694135788,
-    "edit-time": 1613694135788,
+    "edit-time": 1613735703211,
     "title": "February 19th, 2021",
     "uid": "02-19-2021"
   }

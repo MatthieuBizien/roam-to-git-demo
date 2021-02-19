@@ -1,3 +1,3 @@
-- #[[Quick Capture]]
+- #[Quick Capture](<Quick Capture.md>)
     - zongqing lin
     - 1911zongqinglin
