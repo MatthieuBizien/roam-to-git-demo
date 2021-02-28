@@ -1,0 +1,28 @@
+1614552583604	geckodriver	INFO	Listening on 127.0.0.1:57805
+1614552584391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemKKade"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614552594251	Marionette	INFO	Listening on port 42071
+1614552594428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614552594450	Marionette	ERROR	[18] No reply from Marionette:Register
+1614552595476	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+(firefox:2895): GLib-GObject-CRITICAL **: 22:50:07.980: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614552609587	Marionette	INFO	Stopped listening on port 42071
+1614552610165	geckodriver	INFO	Listening on 127.0.0.1:58973
+1614552610171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ6OSJF"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614552611968	Marionette	INFO	Listening on port 37137
+1614552612013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614552612034	Marionette	ERROR	[15] No reply from Marionette:Register
+1614552612883	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+(firefox:3125): GLib-GObject-CRITICAL **: 22:50:26.139: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614552628047	Marionette	INFO	Stopped listening on port 37137

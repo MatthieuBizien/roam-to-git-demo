@@ -5487,6 +5487,11 @@
             "uid": "OqiX_uFHt"
           },
           {
+            ":block/refs": [
+              {
+                ":block/uid": "cXKrjLw6M"
+              }
+            ],
             ":create/user": {
               ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
             },
@@ -5494,9 +5499,26 @@
               ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
             },
             "create-time": 1614551869476,
-            "edit-time": 1614551869476,
-            "string": "",
+            "edit-time": 1614552410962,
+            "refs": [
+              {
+                "uid": "cXKrjLw6M"
+              }
+            ],
+            "string": "[[/pdf hack]]",
             "uid": "DhIDHRmmt"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+            },
+            ":edit/user": {
+              ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+            },
+            "create-time": 1614552410950,
+            "edit-time": 1614552410950,
+            "string": "",
+            "uid": "_nak3JWVv"
           }
         ],
         "create-time": 1614551818725,
@@ -5533,5 +5555,17 @@
     "edit-time": 1614551869495,
     "title": "../../../../../../too-many-prefix/",
     "uid": "2lHR3m-UN"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    "create-time": 1614552410630,
+    "edit-time": 1614552410631,
+    "title": "/pdf hack",
+    "uid": "cXKrjLw6M"
   }
 ]

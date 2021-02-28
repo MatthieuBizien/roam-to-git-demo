@@ -1,4 +1,5 @@
 - Try to test the resilience to weird notes names:
     - [[/usr/xxx]]
     - [[../../../../../../too-many-prefix/]]
+    - [[/pdf hack]]
     - 
