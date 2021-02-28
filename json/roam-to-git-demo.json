@@ -5433,9 +5433,105 @@
     ":edit/user": {
       ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
     },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
+        ":edit/user": {
+          ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "_o8mbk3yq"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+            },
+            ":edit/user": {
+              ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+            },
+            "create-time": 1614551834547,
+            "edit-time": 1614551845533,
+            "refs": [
+              {
+                "uid": "_o8mbk3yq"
+              }
+            ],
+            "string": "[[/usr/xxx]]",
+            "uid": "IZyihfjV9"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "2lHR3m-UN"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+            },
+            ":edit/user": {
+              ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+            },
+            "create-time": 1614551845650,
+            "edit-time": 1614551869492,
+            "refs": [
+              {
+                "uid": "2lHR3m-UN"
+              }
+            ],
+            "string": "[[../../../../../../too-many-prefix/]]",
+            "uid": "OqiX_uFHt"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+            },
+            ":edit/user": {
+              ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+            },
+            "create-time": 1614551869476,
+            "edit-time": 1614551869476,
+            "string": "",
+            "uid": "DhIDHRmmt"
+          }
+        ],
+        "create-time": 1614551818725,
+        "edit-time": 1614551834569,
+        "string": "Try to test the resilience to weird notes names:",
+        "uid": "7Z_npWM7s"
+      }
+    ],
     "create-time": 1614471851191,
     "edit-time": 1614471851191,
     "title": "February 28th, 2021",
     "uid": "02-28-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    "create-time": 1614551845552,
+    "edit-time": 1614551845554,
+    "title": "/usr/xxx",
+    "uid": "_o8mbk3yq"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    ":edit/user": {
+      ":user/uid": "T61HOQAZF0W3WtYHD2UVbsREcSA3"
+    },
+    "create-time": 1614551869495,
+    "edit-time": 1614551869495,
+    "title": "../../../../../../too-many-prefix/",
+    "uid": "2lHR3m-UN"
   }
 ]
