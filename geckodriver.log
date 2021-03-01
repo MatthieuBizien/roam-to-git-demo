@@ -81,3 +81,43 @@ JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEven
 
 (firefox:3256): GLib-GObject-CRITICAL **: 23:10:13.589: g_object_get: assertion 'G_IS_OBJECT (object)' failed
 1614553815412	Marionette	INFO	Stopped listening on port 43331
+1614558250095	geckodriver	INFO	Listening on 127.0.0.1:41393
+1614558250958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecuu6xv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614558259038	Marionette	INFO	Listening on port 42133
+1614558259134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614558259161	Marionette	ERROR	[18] No reply from Marionette:Register
+1614558260354	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+(firefox:2772): GLib-GObject-CRITICAL **: 00:24:33.614: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614558275027	Marionette	INFO	Stopped listening on port 42133
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614558275711	geckodriver	INFO	Listening on 127.0.0.1:50941
+1614558275720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezjjFYc"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614558277878	Marionette	INFO	Listening on port 32789
+1614558277967	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614558277989	Marionette	ERROR	[15] No reply from Marionette:Register
+1614558279034	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+(firefox:2990): GLib-GObject-CRITICAL **: 00:24:52.591: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614558294388	Marionette	INFO	Stopped listening on port 32789
