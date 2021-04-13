@@ -21,7 +21,7 @@ jobs:
 
       -   name: Setup dependencies
           run: |
-            pip install git+https://github.com/MatthieuBizien/roam-to-git.git
+            pip install git+https://github.com/MatthieuBizien/roam-to-git.git@fix/99
       -   name: Run backup
           run: roam-to-git --skip-git . --formats json markdown formatted edn
           env:
