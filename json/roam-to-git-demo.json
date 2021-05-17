@@ -6495,6 +6495,36 @@
     ":edit/user": {
       ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
     },
+    "children": [
+      {
+        ":block/props": {
+          ":POMO": 1621277081932
+        },
+        ":block/refs": [
+          {
+            ":block/uid": "BGHH1qPyf"
+          }
+        ],
+        "create-time": 1621275568533,
+        "edit-time": 1621275576966,
+        "props": {
+          "POMO": 1621277081932
+        },
+        "refs": [
+          {
+            "uid": "BGHH1qPyf"
+          }
+        ],
+        "string": "{{[[POMO]]: 25}}",
+        "uid": "BTmM0pS9W"
+      },
+      {
+        "create-time": 1621275579627,
+        "edit-time": 1621275604887,
+        "string": "/",
+        "uid": "79NQB-dSh"
+      }
+    ],
     "create-time": 1621125721252,
     "edit-time": 1621125721252,
     "title": "May 16th, 2021",
@@ -6507,9 +6537,23 @@
     ":edit/user": {
       ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
     },
+    "children": [
+      {
+        "create-time": 1621275564684,
+        "edit-time": 1621275564684,
+        "string": "",
+        "uid": "iM4gcg_NW"
+      }
+    ],
     "create-time": 1621211860386,
     "edit-time": 1621211860387,
     "title": "May 17th, 2021",
     "uid": "05-17-2021"
+  },
+  {
+    "create-time": 1621275576990,
+    "edit-time": 1621275577001,
+    "title": "POMO",
+    "uid": "BGHH1qPyf"
   }
 ]
