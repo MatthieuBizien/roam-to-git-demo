@@ -8559,5 +8559,17 @@
     "edit-time": 1634517503219,
     "title": "October 18th, 2021",
     "uid": "10-18-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    "create-time": 1634603867767,
+    "edit-time": 1634603867768,
+    "title": "October 19th, 2021",
+    "uid": "10-19-2021"
   }
 ]
