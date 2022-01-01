@@ -9521,5 +9521,17 @@
     "edit-time": 1640911243462,
     "title": "December 31st, 2021",
     "uid": "12-31-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    "create-time": 1640997680640,
+    "edit-time": 1640997680640,
+    "title": "January 1st, 2022",
+    "uid": "01-01-2022"
   }
 ]
