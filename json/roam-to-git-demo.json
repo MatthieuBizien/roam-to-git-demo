@@ -10669,5 +10669,18 @@
     "edit-time": 1644280871394,
     "title": "February 8th, 2022",
     "uid": "02-08-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":log/id": 1644367380161,
+    "create-time": 1644367380163,
+    "edit-time": 1644367380163,
+    "title": "February 9th, 2022",
+    "uid": "02-09-2022"
   }
 ]
