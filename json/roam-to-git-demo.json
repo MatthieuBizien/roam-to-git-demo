@@ -13573,9 +13573,105 @@
       ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
     },
     ":log/id": 1662768737735,
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "1IBrz6uf2"
+          },
+          {
+            ":block/uid": "7id8ni5Zf"
+          },
+          {
+            ":block/uid": "J0KMTUl4j"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+        },
+        ":edit/user": {
+          ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+        },
+        "create-time": 1662790690157,
+        "edit-time": 1662790808128,
+        "refs": [
+          {
+            "uid": "1IBrz6uf2"
+          },
+          {
+            "uid": "7id8ni5Zf"
+          },
+          {
+            "uid": "J0KMTUl4j"
+          }
+        ],
+        "string": "Routing of [[Roam Graph]] through [[Git]] when coupled with #Notion plugins and publication to website, completes the loop where attestations and attribution can be implemented by cryptographic social proofs between web2 and web3 accounts.",
+        "uid": "gfFJl-hLq"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+        },
+        ":edit/user": {
+          ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+        },
+        "create-time": 1662790808123,
+        "edit-time": 1662790808123,
+        "string": "",
+        "uid": "FD0fDcXMI"
+      }
+    ],
     "create-time": 1662768737738,
     "edit-time": 1662768737738,
     "title": "September 10th, 2022",
     "uid": "09-10-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+    },
+    ":edit/user": {
+      ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+    },
+    "create-time": 1662790685829,
+    "edit-time": 1662790685829,
+    "title": "Jonny Dubowsky",
+    "uid": "Hk03GF9Be"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+    },
+    ":edit/user": {
+      ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+    },
+    "create-time": 1662790726086,
+    "edit-time": 1662790726110,
+    "title": "Roam Graph",
+    "uid": "1IBrz6uf2"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+    },
+    ":edit/user": {
+      ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+    },
+    "create-time": 1662790726086,
+    "edit-time": 1662790726110,
+    "title": "Git",
+    "uid": "7id8ni5Zf"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+    },
+    ":edit/user": {
+      ":user/uid": "riXjK4uawiXJs2DJrruztsNW0t43"
+    },
+    "create-time": 1662790738722,
+    "edit-time": 1662790738723,
+    "title": "Notion",
+    "uid": "J0KMTUl4j"
   }
 ]
