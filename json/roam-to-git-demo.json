@@ -13673,5 +13673,18 @@
     "edit-time": 1662790738723,
     "title": "Notion",
     "uid": "J0KMTUl4j"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":log/id": 1662859929901,
+    "create-time": 1662859929904,
+    "edit-time": 1662859929904,
+    "title": "September 11th, 2022",
+    "uid": "09-11-2022"
   }
 ]
