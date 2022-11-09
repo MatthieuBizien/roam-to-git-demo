@@ -14506,5 +14506,18 @@
     "edit-time": 1667866381605,
     "title": "November 8th, 2022",
     "uid": "11-08-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":log/id": 1667952745769,
+    "create-time": 1667952745772,
+    "edit-time": 1667952745773,
+    "title": "November 9th, 2022",
+    "uid": "11-09-2022"
   }
 ]
