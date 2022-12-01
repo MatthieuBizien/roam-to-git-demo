@@ -9,7 +9,7 @@ on:
 
 jobs:
   backup:
-    runs-on: ubuntu-latest
+    runs-on: "Ubuntu-20.04"
     name: Backup
     timeout-minutes: 15
     steps:
