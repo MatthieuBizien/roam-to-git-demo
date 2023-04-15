@@ -16563,6 +16563,14 @@
       ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
     },
     ":log/id": 1681435762097,
+    "children": [
+      {
+        "create-time": 1681519005103,
+        "edit-time": 1681519008169,
+        "string": "hey there! ",
+        "uid": "1_pk-xN_o"
+      }
+    ],
     "create-time": 1681435762102,
     "edit-time": 1681435762102,
     "title": "April 14th, 2023",
