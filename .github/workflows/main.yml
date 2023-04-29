@@ -25,7 +25,7 @@ jobs:
             pip install git+https://github.com/caffo/roam-to-git.git
             
       -   name: Run backup
-          run: roam-to-git --skip-git . --browser-path firefox --formats json markdown formatted edn
+          run: roam-to-git --skip-git . --browser-path firefox
           env:
             ROAMRESEARCH_USER: ${{ secrets.ROAMRESEARCH_USER }}
             ROAMRESEARCH_PASSWORD: ${{ secrets.ROAMRESEARCH_PASSWORD }}
