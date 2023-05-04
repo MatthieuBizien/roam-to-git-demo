@@ -1,2 +1,0 @@
-- Building another [concept](<concept.md>)
-- 

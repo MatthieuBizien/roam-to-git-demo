@@ -1,3 +1,0 @@
-- Oh man! So cool! Thank you for creating roam-to-git!
-- also mentioning payroll as unlinked reference
-- Oh. Let's just hop on the train of [[another concept]]

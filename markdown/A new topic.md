@@ -1,4 +1,0 @@
-- #[[November 28th, 2020]]
-    - This is a thing I started
-    - Let's write about some stuff. 
-- 

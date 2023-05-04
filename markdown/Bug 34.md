@@ -1,2 +1,0 @@
-- Themen:: #Denken #Lernen #Glaubensätze #Definitionen #[[💡2]]
-- 
