@@ -29,6 +29,7 @@ jobs:
         run: |
           ls
           pwd
+          which firefox
           roam-to-git --skip-git . --browser-path firefox
         env:
           ROAMRESEARCH_USER: ${{ secrets.ROAMRESEARCH_USER }}
