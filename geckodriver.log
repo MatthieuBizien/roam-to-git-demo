@@ -6143,3 +6143,78 @@ JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error:
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1685120555529	geckodriver	INFO	Listening on 127.0.0.1:53951
+1685120556533	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilewB9Wh2"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1685120557059	Marionette	INFO	Marionette enabled
+1685120557065	Marionette	INFO	Listening on port 39203
+Read port: 39203
+1685120557225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+[Parent 1767, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-OjBfoA/firefox-113.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:1767): GLib-GObject-CRITICAL **: 17:02:54.950: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1685120576747	Marionette	INFO	Stopped listening on port 39203
+[Child 1844, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1844, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1844, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1844, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1844, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1844, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1844, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1844, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685120577387	geckodriver	INFO	Listening on 127.0.0.1:35247
+1685120578395	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileOJNCM3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1685120578675	Marionette	INFO	Marionette enabled
+1685120578680	Marionette	INFO	Listening on port 42483
+Read port: 42483
+1685120578811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+[Parent 2309, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-OjBfoA/firefox-113.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2309): GLib-GObject-CRITICAL **: 17:03:16.166: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1685120597778	Marionette	INFO	Stopped listening on port 42483
+[Child 2372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685120598421	geckodriver	INFO	Listening on 127.0.0.1:43063
+1685120599428	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilef0GOfP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1685120599716	Marionette	INFO	Marionette enabled
+1685120599721	Marionette	INFO	Listening on port 43721
+Read port: 43721
+1685120599855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+[Parent 2834, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-OjBfoA/firefox-113.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2834): GLib-GObject-CRITICAL **: 17:03:36.977: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1685120618975	Marionette	INFO	Stopped listening on port 43721
+[Child 2893, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2893, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2893, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2893, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2893, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2893, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2893, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2893, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-OjBfoA/firefox-113.0+build2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
