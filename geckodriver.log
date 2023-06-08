@@ -35764,3 +35764,51 @@ JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateE
 
 (firefox:3123): GLib-GObject-CRITICAL **: 14:04:56.771: g_object_get: assertion 'G_IS_OBJECT (object)' failed
 1686233098767	Marionette	INFO	Stopped listening on port 44077
+1686240180874	geckodriver	INFO	Listening on 127.0.0.1:43467
+1686240181681	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile4M3fr0"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1686240187365	Marionette	INFO	Marionette enabled
+1686240187377	Marionette	INFO	Listening on port 32833
+Read port: 32833
+1686240188453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 1710, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-3jHurn/firefox-114.0+build3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:1710): GLib-GObject-CRITICAL **: 16:03:28.998: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1686240210724	Marionette	INFO	Stopped listening on port 32833
+1686240211582	geckodriver	INFO	Listening on 127.0.0.1:53505
+1686240212590	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilerDHWbV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1686240212871	Marionette	INFO	Marionette enabled
+1686240212875	Marionette	INFO	Listening on port 35053
+Read port: 35053
+1686240213020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 2265, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-3jHurn/firefox-114.0+build3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2265): GLib-GObject-CRITICAL **: 16:03:50.199: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1686240231809	Marionette	INFO	Stopped listening on port 35053
+1686240232526	geckodriver	INFO	Listening on 127.0.0.1:58147
+1686240233534	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile9159zb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1686240233817	Marionette	INFO	Marionette enabled
+1686240233821	Marionette	INFO	Listening on port 44085
+Read port: 44085
+1686240233949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[Parent 2843, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-3jHurn/firefox-114.0+build3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2843): GLib-GObject-CRITICAL **: 16:04:10.963: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1686240252951	Marionette	INFO	Stopped listening on port 44085
