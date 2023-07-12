@@ -17342,5 +17342,18 @@
     "edit-time": 1689034345178,
     "title": "July 11th, 2023",
     "uid": "07-11-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":log/id": 1689120795422,
+    "create-time": 1689120795427,
+    "edit-time": 1689120795427,
+    "title": "July 12th, 2023",
+    "uid": "07-12-2023"
   }
 ]
