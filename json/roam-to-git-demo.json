@@ -19397,5 +19397,18 @@
     "edit-time": 1702771849285,
     "title": "December 17th, 2023",
     "uid": "12-17-2023"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":log/id": 1702858216187,
+    "create-time": 1702858216190,
+    "edit-time": 1702858216190,
+    "title": "December 18th, 2023",
+    "uid": "12-18-2023"
   }
 ]
