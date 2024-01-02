@@ -19598,5 +19598,18 @@
     "edit-time": 1704067876713,
     "title": "January 1st, 2024",
     "uid": "01-01-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":log/id": 1704154204078,
+    "create-time": 1704154204081,
+    "edit-time": 1704154204081,
+    "title": "January 2nd, 2024",
+    "uid": "01-02-2024"
   }
 ]
