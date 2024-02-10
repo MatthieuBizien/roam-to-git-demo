@@ -18807,6 +18807,26 @@
       ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
     },
     ":log/id": 1698797392816,
+    "children": [
+      {
+        "create-time": 1707520487515,
+        "edit-time": 1707520488685,
+        "string": "sadf",
+        "uid": "Gn1qtepxa"
+      },
+      {
+        "create-time": 1707520488678,
+        "edit-time": 1707520489541,
+        "string": "asdf",
+        "uid": "HDgudafK6"
+      },
+      {
+        "create-time": 1707520489532,
+        "edit-time": 1707520489532,
+        "string": "",
+        "uid": "UePkdfx25"
+      }
+    ],
     "create-time": 1698797392818,
     "edit-time": 1698797392818,
     "title": "November 1st, 2023",
@@ -20117,5 +20137,18 @@
     "edit-time": 1707437367847,
     "title": "February 9th, 2024",
     "uid": "02-09-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":log/id": 1707523772704,
+    "create-time": 1707523772706,
+    "edit-time": 1707523772706,
+    "title": "February 10th, 2024",
+    "uid": "02-10-2024"
   }
 ]
