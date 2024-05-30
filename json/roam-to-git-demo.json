@@ -21596,6 +21596,14 @@
       ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
     },
     ":log/id": 1717027844958,
+    "children": [
+      {
+        "create-time": 1717058640955,
+        "edit-time": 1717058640955,
+        "string": "",
+        "uid": "v1ajjMMph"
+      }
+    ],
     "create-time": 1717027844960,
     "edit-time": 1717027844960,
     "title": "May 30th, 2024",
