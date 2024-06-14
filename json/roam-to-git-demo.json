@@ -21630,6 +21630,20 @@
       ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
     },
     ":log/id": 1717200661989,
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "h6tOyJ4VVAQj7Eo8TmHyP6QapbW2"
+        },
+        ":edit/user": {
+          ":user/uid": "h6tOyJ4VVAQj7Eo8TmHyP6QapbW2"
+        },
+        "create-time": 1718350049132,
+        "edit-time": 1718350049132,
+        "string": "",
+        "uid": "5KPj2Tebf"
+      }
+    ],
     "create-time": 1717200661990,
     "edit-time": 1717200661991,
     "title": "June 1st, 2024",
@@ -21815,5 +21829,17 @@
     "edit-time": 1718323827323,
     "title": "June 14th, 2024",
     "uid": "06-14-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "h6tOyJ4VVAQj7Eo8TmHyP6QapbW2"
+    },
+    ":edit/user": {
+      ":user/uid": "h6tOyJ4VVAQj7Eo8TmHyP6QapbW2"
+    },
+    "create-time": 1718350010291,
+    "edit-time": 1718350010291,
+    "title": "Supalak Phetcharat",
+    "uid": "Ot7g6WxX-"
   }
 ]
