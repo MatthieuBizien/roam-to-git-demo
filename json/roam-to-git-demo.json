@@ -21997,5 +21997,18 @@
     "edit-time": 1719360624943,
     "title": "June 26th, 2024",
     "uid": "06-26-2024"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":edit/user": {
+      ":user/uid": "bzAWUasfwqh0WJiiMHp0WmIB15B2"
+    },
+    ":log/id": 1719447032651,
+    "create-time": 1719447032655,
+    "edit-time": 1719447032655,
+    "title": "June 27th, 2024",
+    "uid": "06-27-2024"
   }
 ]
